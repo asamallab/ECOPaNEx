@@ -1,0 +1,2662 @@
+DiseaseID	DiseaseName	Mapped_KE	Info
+MESH:D006948	Hyperkinesis	['2150']	Mapped
+MESH:D012640	Seizures	-	To be predicted
+MESH:D006333	Heart Failure	['1535']	Mapped
+MESH:D013262	Stevens-Johnson Syndrome	-	To be predicted
+MESH:D014202	Tremor	['2150']	Mapped
+MESH:D000014	Abnormalities, Drug-Induced	-	To be predicted
+MESH:D008107	Liver Diseases	-	To be predicted
+MESH:D007249	Inflammation	['149', '1087']	Mapped
+MESH:D010049	Ovarian Diseases	-	To be predicted
+MESH:D001145	Arrhythmias, Cardiac	['317', '699', '1106', '1919']	Mapped
+MESH:D056486	Chemical and Drug Induced Liver Injury	['139', '1393', '786']	Mapped
+MESH:D006521	Hepatitis, Chronic	-	To be predicted
+MESH:D008175	Lung Neoplasms	['1556', '1670', '885']	Mapped
+MESH:D013274	Stomach Neoplasms	['1651']	Mapped
+MESH:D011230	Precancerous Conditions	-	To be predicted
+MESH:D012871	Skin Diseases	-	To be predicted
+MESH:D002386	Cataract	['2083']	Mapped
+MESH:D004487	Edema	-	To be predicted
+MESH:D012600	Scoliosis	-	To be predicted
+MESH:D002318	Cardiovascular Diseases	-	To be predicted
+MESH:D020521	Stroke	['1875', '2150']	Mapped
+MESH:D006965	Hyperplasia	['854', '142']	Mapped
+MESH:D001919	Bradycardia	['317', '1703']	Mapped
+MESH:D007022	Hypotension	-	To be predicted
+MESH:D002189	Marijuana Abuse	-	To be predicted
+MESH:D011565	Psoriasis	['1709']	Mapped
+MESH:D024821	Metabolic Syndrome	['2145']	Mapped
+MESH:D007333	Insulin Resistance	['2018', '2119']	Mapped
+MESH:D056128	Obesity, Abdominal	-	To be predicted
+MESH:D001284	Atrophy	['868']	Mapped
+MESH:D002375	Catalepsy	['2150']	Mapped
+MESH:D007859	Learning Disabilities	['341', '637']	Mapped
+MESH:D008569	Memory Disorders	['637', '2150']	Mapped
+MESH:D009436	Neural Tube Defects	['1561', '2150']	Mapped
+MESH:D064420	Drug-Related Side Effects and Adverse Reactions	-	To be predicted
+MESH:D010300	Parkinson Disease	['191', '192', '2150']	Mapped
+MESH:D005234	Fatty Liver	['2125', '345']	Mapped
+MESH:D005317	Fetal Growth Retardation	['1521']	Mapped
+MESH:D005327	Fetal Resorption	-	To be predicted
+MESH:D000230	Adenocarcinoma	['1971', '885']	Mapped
+MESH:D000236	Adenoma	-	To be predicted
+MESH:D002759	Adenoma, Bile Duct	-	To be predicted
+MESH:D001943	Breast Neoplasms	['1193', '885']	Mapped
+MESH:D018281	Cholangiocarcinoma	['856']	Mapped
+MESH:D005706	Gallbladder Neoplasms	-	To be predicted
+MESH:D006529	Hepatomegaly	-	To be predicted
+MESH:D007414	Intestinal Neoplasms	-	To be predicted
+MESH:D007680	Kidney Neoplasms	['885']	Mapped
+MESH:D056784	Leukoencephalopathies	-	To be predicted
+MESH:D017114	Liver Failure, Acute	-	To be predicted
+MESH:D008113	Liver Neoplasms	['2034']	Mapped
+MESH:D008114	Liver Neoplasms, Experimental	['2034']	Mapped
+MESH:D008171	Lung Diseases	['1250']	Mapped
+MESH:D055370	Lung Injury	-	To be predicted
+MESH:D009062	Mouth Neoplasms	-	To be predicted
+MESH:D009336	Necrosis	['1263', '1607']	Mapped
+MESH:D009361	Neoplasm Invasiveness	['885']	Mapped
+MESH:D009369	Neoplasms	['885']	Mapped
+MESH:D020258	Neurotoxicity Syndromes	['2150']	Mapped
+MESH:D009784	Occupational Diseases	-	To be predicted
+MESH:D010190	Pancreatic Neoplasms	['885']	Mapped
+MESH:D014594	Uterine Neoplasms	['885']	Mapped
+MESH:D015431	Weight Loss	['864']	Mapped
+MESH:D004646	Emphysema	['2011']	Mapped
+MESH:D053565	Hypercalciuria	-	To be predicted
+MESH:D011164	Porphyrias	-	To be predicted
+MESH:D001161	Arteriosclerosis	['317']	Mapped
+MESH:D002277	Carcinoma	['1971']	Mapped
+MESH:D006390	Hemangioendothelioma	-	To be predicted
+MESH:D007153	Immunologic Deficiency Syndromes	['403']	Mapped
+MESH:D015674	Mammary Neoplasms, Animal	['1079']	Mapped
+MESH:D048629	Micronuclei, Chromosome-Defective	-	To be predicted
+MESH:D009374	Neoplasms, Experimental	['885']	Mapped
+MESH:D010212	Papilloma	-	To be predicted
+MESH:D011041	Poisoning	-	To be predicted
+MESH:D012509	Sarcoma	['885']	Mapped
+MESH:D012878	Skin Neoplasms	['885']	Mapped
+MESH:D006934	Hypercalcemia	['389', '1339', '2064', '2145']	Mapped
+MESH:D003643	Death	-	To be predicted
+MESH:D017449	Dermatitis, Allergic Contact	['827']	Mapped
+MESH:D003877	Dermatitis, Contact	-	To be predicted
+MESH:D020233	Gait Disorders, Neurologic	['2150']	Mapped
+MESH:D000068079	Motor Disorders	['2150']	Mapped
+MESH:D058065	Diabetic Cardiomyopathies	-	To be predicted
+MESH:D009783	Dermatitis, Occupational	-	To be predicted
+MESH:D004485	Eczema	-	To be predicted
+MESH:D005148	Facial Dermatoses	-	To be predicted
+MESH:D006229	Hand Dermatoses	-	To be predicted
+MESH:D006967	Hypersensitivity	-	To be predicted
+MESH:D012883	Skin Ulcer	-	To be predicted
+MESH:D053713	Azoospermia	['330', '337', '1757']	Mapped
+MESH:D007248	Infertility, Male	['330', '337']	Mapped
+MESH:D007674	Kidney Diseases	-	To be predicted
+MESH:D008325	Mammary Neoplasms, Experimental	['885']	Mapped
+MESH:D009669	Nose Neoplasms	-	To be predicted
+MESH:D009845	Oligospermia	['330', '337', '1757']	Mapped
+MESH:D011469	Prostatic Diseases	-	To be predicted
+MESH:D013163	Splenomegaly	-	To be predicted
+MESH:D058739	Aberrant Crypt Foci	-	To be predicted
+MESH:D002471	Cell Transformation, Neoplastic	['885']	Mapped
+MESH:D019457	Chromosome Breakage	['1636', '1669']	Mapped
+MESH:D003108	Colonic Diseases	-	To be predicted
+MESH:D003110	Colonic Neoplasms	-	To be predicted
+MESH:D015179	Colorectal Neoplasms	['885']	Mapped
+MESH:D004195	Disease Models, Animal	-	To be predicted
+MESH:D005770	Gastrointestinal Neoplasms	-	To be predicted
+MESH:D006394	Hemangiosarcoma	-	To be predicted
+MESH:D013964	Thyroid Neoplasms	['885']	Mapped
+MESH:D066263	Protein Aggregation, Pathological	-	To be predicted
+MESH:D006930	Hyperalgesia	['192', '2150']	Mapped
+MESH:D006528	Carcinoma, Hepatocellular	['716', '719', '885', '334', '378', '1971']	Mapped
+MESH:D018307	Neoplasms, Squamous Cell	-	To be predicted
+MESH:D009069	Movement Disorders	['2150']	Mapped
+MESH:D011115	Polyneuropathies	-	To be predicted
+MESH:D003921	Diabetes Mellitus, Experimental	['2018', '2119', '2144']	Mapped
+MESH:D018248	Adenoma, Liver Cell	['1395']	Mapped
+MESH:D007942	Leukemia, Experimental	-	To be predicted
+MESH:D015470	Leukemia, Myeloid, Acute	['1955']	Mapped
+MESH:D016393	Lymphoma, B-Cell	-	To be predicted
+MESH:D018215	Osteoblastoma	-	To be predicted
+MESH:D012516	Osteosarcoma	['885']	Mapped
+MESH:D003328	Coronary Thrombosis	-	To be predicted
+MESH:D000743	Anemia, Hemolytic	['250', '1132']	Mapped
+MESH:D018450	Disease Progression	-	To be predicted
+MESH:D020031	Epstein-Barr Virus Infections	-	To be predicted
+MESH:D042822	Genomic Instability	['1896']	Mapped
+MESH:D000077274	Nasopharyngeal Carcinoma	-	To be predicted
+MESH:D005334	Fever	-	To be predicted
+MESH:D011654	Pulmonary Edema	['1250']	Mapped
+MESH:D050197	Atherosclerosis	['1443']	Mapped
+MESH:D001321	Autistic Disorder	['2150']	Mapped
+MESH:D001932	Brain Neoplasms	['192']	Mapped
+MESH:D063646	Carcinogenesis	['885']	Mapped
+MESH:D002869	Chromosome Aberrations	['1554', '1636']	Mapped
+MESH:D005910	Glioma	['885', '1971']	Mapped
+MESH:D007938	Leukemia	['1955', '1971', '885']	Mapped
+MESH:D008223	Lymphoma	-	To be predicted
+MESH:D009447	Neuroblastoma	['192', '2150']	Mapped
+MESH:D018242	Neuroectodermal Tumors, Primitive	-	To be predicted
+MESH:D010051	Ovarian Neoplasms	-	To be predicted
+MESH:D010677	Philadelphia Chromosome	-	To be predicted
+MESH:D001749	Urinary Bladder Neoplasms	['885']	Mapped
+MESH:D001259	Ataxia	['192', '602', '764', '2150']	Mapped
+MESH:D002418	Cattle Diseases	-	To be predicted
+MESH:D005141	Eyelid Diseases	-	To be predicted
+MESH:D007003	Hypoglycemia	-	To be predicted
+MESH:D007662	Ketosis	-	To be predicted
+MESH:D001008	Anxiety Disorders	-	To be predicted
+MESH:D003072	Cognition Disorders	['402', '2150']	Mapped
+MESH:D009771	Obsessive-Compulsive Disorder	-	To be predicted
+MESH:D012021	Reflex, Abnormal	-	To be predicted
+MESH:D014625	Vaginal Neoplasms	-	To be predicted
+MESH:D002282	Adenocarcinoma, Bronchiolo-Alveolar	-	To be predicted
+MESH:D000747	Anemia, Hypochromic	-	To be predicted
+MESH:D000740	Anemia	['1132']	Mapped
+MESH:D048550	Hepatic Insufficiency	['2034']	Mapped
+MESH:D006949	Hyperlipidemias	-	To be predicted
+MESH:D008654	Mesothelioma	-	To be predicted
+MESH:D009423	Nervous System Neoplasms	-	To be predicted
+MESH:D013736	Testicular Neoplasms	['1839']	Mapped
+MESH:D002294	Carcinoma, Squamous Cell	['1971', '885']	Mapped
+MESH:D051677	Histiocytoma, Malignant Fibrous	-	To be predicted
+MESH:D012513	Sarcoma, Experimental	-	To be predicted
+MESH:D014846	Vulvar Neoplasms	-	To be predicted
+MESH:D002545	Brain Ischemia	['192', '2022', '2150']	Mapped
+MESH:D013226	Status Epilepticus	['2150']	Mapped
+MESH:D004421	Dystonia	-	To be predicted
+MESH:D006461	Hemolysis	['250']	Mapped
+MESH:D006947	Hyperkalemia	-	To be predicted
+MESH:D017202	Myocardial Ischemia	['1934']	Mapped
+MESH:D018879	Ventricular Premature Complexes	-	To be predicted
+MESH:D000015	Abnormalities, Multiple	-	To be predicted
+MESH:D005355	Fibrosis	-	To be predicted
+MESH:D006984	Hypertrophy	-	To be predicted
+MESH:D005131	Eye Injuries	-	To be predicted
+MESH:D006327	Heart Block	-	To be predicted
+MESH:D000067877	Autism Spectrum Disorder	['2150']	Mapped
+MESH:D064419	Chemically-Induced Disorders	-	To be predicted
+MESH:D020763	Pathological Conditions, Anatomical	-	To be predicted
+MESH:D012130	Respiratory Hypersensitivity	-	To be predicted
+MESH:D005767	Gastrointestinal Diseases	-	To be predicted
+MESH:D008231	Lymphopenia	-	To be predicted
+MESH:D013921	Thrombocytopenia	-	To be predicted
+MESH:D014839	Vomiting	-	To be predicted
+MESH:D003924	Diabetes Mellitus, Type 2	-	To be predicted
+MESH:D006973	Hypertension	['952', '1343']	Mapped
+MESH:D007035	Hypothermia	-	To be predicted
+MESH:D009410	Nerve Degeneration	['352', '191', '1514', '2195']	Mapped
+MESH:D006976	Hypertension, Pulmonary	['952', '1343']	Mapped
+MESH:D011655	Pulmonary Embolism	-	To be predicted
+MESH:D003092	Colitis	-	To be predicted
+MESH:D013733	Testicular Diseases	-	To be predicted
+MESH:D001249	Asthma	-	To be predicted
+MESH:D059366	Asthma, Occupational	['2087']	Mapped
+MESH:D007280	Disorders of Environmental Origin	-	To be predicted
+MESH:D000782	Aneuploidy	['1636']	Mapped
+MESH:D016640	Diabetes, Gestational	['1953']	Mapped
+MESH:D018149	Glucose Intolerance	-	To be predicted
+MESH:D008106	Liver Cirrhosis, Experimental	['2034']	Mapped
+MESH:D011248	Pregnancy Complications	-	To be predicted
+MESH:D009461	Neurologic Manifestations	['2150']	Mapped
+MESH:D006212	Hallucinations	-	To be predicted
+MESH:D011595	Psychomotor Agitation	['2150']	Mapped
+MESH:D013610	Tachycardia	-	To be predicted
+MESH:D059246	Tachypnea	-	To be predicted
+MESH:D005354	Fibrosarcoma	-	To be predicted
+MESH:D003480	Cushing Syndrome	-	To be predicted
+MESH:D007008	Hypokalemia	-	To be predicted
+MESH:D000310	Adrenal Gland Neoplasms	-	To be predicted
+MESH:D002780	Cholestasis, Intrahepatic	-	To be predicted
+MESH:D058186	Acute Kidney Injury	-	To be predicted
+MESH:D002761	Cholangitis	-	To be predicted
+MESH:D006505	Hepatitis	-	To be predicted
+MESH:D003967	Diarrhea	-	To be predicted
+MESH:D004067	Digestive System Neoplasms	-	To be predicted
+MESH:D000855	Anorexia	['864']	Mapped
+MESH:D007970	Leukopenia	-	To be predicted
+MESH:D009325	Nausea	-	To be predicted
+MESH:D053627	Asthenozoospermia	['330', '337']	Mapped
+MESH:D003866	Depressive Disorder	-	To be predicted
+MESH:D006470	Hemorrhage	['1130']	Mapped
+MESH:D007246	Infertility	['330']	Mapped
+MESH:D047508	Massive Hepatic Necrosis	['1607']	Mapped
+MESH:D019954	Neurobehavioral Manifestations	['2150']	Mapped
+MESH:D010243	Paralysis	['192', '2150']	Mapped
+MESH:D013119	Spinal Cord Injuries	-	To be predicted
+MESH:D010146	Pain	-	To be predicted
+MESH:D004938	Esophageal Neoplasms	-	To be predicted
+MESH:D009375	Neoplasms, Glandular and Epithelial	-	To be predicted
+MESH:D009135	Muscular Diseases	-	To be predicted
+MESH:D010182	Pancreatic Diseases	-	To be predicted
+MESH:D010195	Pancreatitis	-	To be predicted
+MESH:D003928	Diabetic Nephropathies	['422', '1250']	Mapped
+MESH:D064793	Teratogenesis	-	To be predicted
+MESH:D017109	Akathisia, Drug-Induced	-	To be predicted
+MESH:D013375	Substance Withdrawal Syndrome	-	To be predicted
+MESH:D003128	Coma	-	To be predicted
+MESH:D011552	Pseudomonas Infections	-	To be predicted
+MESH:D016171	Torsades de Pointes	-	To be predicted
+MESH:D001927	Brain Diseases	['191', '2150']	Mapped
+MESH:D001930	Brain Injuries	['191', '2150']	Mapped
+MESH:D002389	Catatonia	-	To be predicted
+MESH:D002493	Central Nervous System Diseases	['192', '2150']	Mapped
+MESH:D003248	Constipation	-	To be predicted
+MESH:D004409	Dyskinesia, Drug-Induced	['191', '192', '2150']	Mapped
+MESH:D020820	Dyskinesias	-	To be predicted
+MESH:D005119	Extravasation of Diagnostic and Therapeutic Materials	-	To be predicted
+MESH:D005911	Gliosis	-	To be predicted
+MESH:D018476	Hypokinesia	-	To be predicted
+MESH:D007794	Lameness, Animal	-	To be predicted
+MESH:D051346	Mobility Limitation	-	To be predicted
+MESH:D019957	Motor Skills Disorders	['2150']	Mapped
+MESH:D020267	MPTP Poisoning	-	To be predicted
+MESH:D009127	Muscle Rigidity	-	To be predicted
+MESH:D018908	Muscle Weakness	-	To be predicted
+MESH:D009422	Nervous System Diseases	['192', '2150']	Mapped
+MESH:D019636	Neurodegenerative Diseases	['1514']	Mapped
+MESH:D010302	Parkinson Disease, Secondary	-	To be predicted
+MESH:D020734	Parkinsonian Disorders	['896', '2150']	Mapped
+MESH:D014855	Wallerian Degeneration	-	To be predicted
+MESH:D007319	Sleep Initiation and Maintenance Disorders	-	To be predicted
+MESH:D019966	Substance-Related Disorders	-	To be predicted
+MESH:D001649	Bile Duct Diseases	-	To be predicted
+MESH:D001660	Biliary Tract Diseases	-	To be predicted
+MESH:D002779	Cholestasis	-	To be predicted
+MESH:D005705	Gallbladder Diseases	-	To be predicted
+MESH:D006099	Granuloma	-	To be predicted
+MESH:D006937	Hypercholesterolemia	['1289', '2115', '2145']	Mapped
+MESH:D008064	Lipidoses	['1001']	Mapped
+MESH:D008103	Liver Cirrhosis	-	To be predicted
+MESH:D008105	Liver Cirrhosis, Biliary	['2034']	Mapped
+MESH:D010382	Peliosis Hepatis	-	To be predicted
+MESH:D055371	Acute Lung Injury	-	To be predicted
+MESH:D011658	Pulmonary Fibrosis	['1276', '1458']	Mapped
+MESH:D059226	Nociceptive Pain	-	To be predicted
+MESH:D001169	Arthritis, Experimental	-	To be predicted
+MESH:D009207	Myoclonus	-	To be predicted
+MESH:D017495	Hyperpigmentation	-	To be predicted
+MESH:D010554	Personality Disorders	-	To be predicted
+MESH:D019969	Amphetamine-Related Disorders	['2150']	Mapped
+MESH:D019970	Cocaine-Related Disorders	-	To be predicted
+MESH:D004751	Enteritis	-	To be predicted
+MESH:D010241	Parakeratosis	-	To be predicted
+MESH:D007247	Infertility, Female	['330', '337']	Mapped
+MESH:D054198	Precursor Cell Lymphoblastic Leukemia-Lymphoma	-	To be predicted
+MESH:D001724	Birth Weight	-	To be predicted
+MESH:D001835	Body Weight	['864']	Mapped
+MESH:D004420	Dystocia	-	To be predicted
+MESH:D005831	Genital Diseases, Female	-	To be predicted
+MESH:D006130	Growth Disorders	-	To be predicted
+MESH:D052801	Male Urogenital Diseases	-	To be predicted
+MESH:D011297	Prenatal Exposure Delayed Effects	-	To be predicted
+MESH:D011629	Puberty, Precocious	-	To be predicted
+MESH:D013158	Splenic Diseases	-	To be predicted
+MESH:D014564	Urogenital Abnormalities	-	To be predicted
+MESH:D015430	Weight Gain	['1447']	Mapped
+MESH:D004408	Dysgeusia	-	To be predicted
+MESH:D047928	Premature Birth	-	To be predicted
+MESH:D001848	Bone Diseases, Developmental	['577', '1001', '2089']	Mapped
+MESH:D006332	Cardiomegaly	-	To be predicted
+MESH:D009358	Congenital, Hereditary, and Neonatal Diseases and Abnormalities	-	To be predicted
+MESH:D006319	Hearing Loss, Sensorineural	['1008']	Mapped
+MESH:C563515	Neutrophil Chemotactic Response, Abnormal	-	To be predicted
+MESH:D000690	Amyotrophic Lateral Sclerosis	['2150']	Mapped
+MESH:D003456	Cryptorchidism	['1001']	Mapped
+MESH:D003920	Diabetes Mellitus	-	To be predicted
+MESH:D006331	Heart Diseases	-	To be predicted
+MESH:D006943	Hyperglycemia	['1952', '2145']	Mapped
+MESH:D009139	Musculoskeletal Abnormalities	-	To be predicted
+MESH:D009765	Obesity	['1447', '2129']	Mapped
+MESH:D013121	Spinal Curvatures	-	To be predicted
+MESH:D013959	Thyroid Diseases	-	To be predicted
+MESH:D006980	Hyperthyroidism	-	To be predicted
+MESH:D004715	Endometriosis	-	To be predicted
+MESH:D004480	Ectromelia	-	To be predicted
+MESH:D017880	Limb Deformities, Congenital	-	To be predicted
+MESH:D009202	Cardiomyopathies	['317']	Mapped
+MESH:D012164	Retinal Diseases	-	To be predicted
+MESH:D019465	Craniofacial Abnormalities	-	To be predicted
+MESH:D062025	Organophosphate Poisoning	-	To be predicted
+MESH:D051437	Renal Insufficiency	-	To be predicted
+MESH:D005832	Genital Diseases, Male	-	To be predicted
+MESH:D002658	Developmental Disabilities	['1001', '2050']	Mapped
+MESH:D008206	Lymphatic Diseases	-	To be predicted
+MESH:D009362	Neoplasm Metastasis	-	To be predicted
+MESH:C538110	Pancreatic adenoma	-	To be predicted
+MESH:D006970	Disorders of Excessive Somnolence	-	To be predicted
+MESH:D007174	Disruptive, Impulse Control, and Conduct Disorders	-	To be predicted
+MESH:D020187	REM Sleep Behavior Disorder	-	To be predicted
+MESH:D018771	Arthralgia	-	To be predicted
+MESH:D020964	Embryo Loss	['947']	Mapped
+MESH:D006330	Heart Defects, Congenital	-	To be predicted
+MESH:D006402	Hematologic Diseases	-	To be predicted
+MESH:D058226	Plaque, Atherosclerotic	['1443']	Mapped
+MESH:D002292	Carcinoma, Renal Cell	['713', '885', '1971']	Mapped
+MESH:D064806	Dysbiosis	-	To be predicted
+MESH:D008659	Metabolic Diseases	['2145']	Mapped
+MESH:D000402	Airway Obstruction	-	To be predicted
+MESH:D049188	Prenatal Injuries	-	To be predicted
+MESH:D013160	Splenic Neoplasms	-	To be predicted
+MESH:D014456	Ulcer	-	To be predicted
+MESH:D007683	Kidney Tubular Necrosis, Acute	['1263', '1607']	Mapped
+MESH:D004428	Ear Neoplasms	-	To be predicted
+MESH:D010534	Peritoneal Neoplasms	-	To be predicted
+MESH:D010538	Peritonitis	-	To be predicted
+MESH:D011470	Prostatic Hyperplasia	['142']	Mapped
+MESH:D019048	Prostatic Intraepithelial Neoplasia	-	To be predicted
+MESH:D011471	Prostatic Neoplasms	['885', '2135']	Mapped
+MESH:D011472	Prostatitis	['2136']	Mapped
+MESH:D014565	Urogenital Neoplasms	-	To be predicted
+MESH:C537358	Methylmalonic acidemia	-	To be predicted
+MESH:D056693	Propionic Acidemia	-	To be predicted
+MESH:D001989	Bronchiolitis Obliterans	-	To be predicted
+MESH:D001851	Bone Diseases, Metabolic	['2089', '2145']	Mapped
+MESH:D006996	Hypocalcemia	-	To be predicted
+MESH:D012141	Respiratory Tract Infections	['1250']	Mapped
+MESH:D011596	Psychomotor Disorders	['2150']	Mapped
+MESH:D000382	Agricultural Workers' Diseases	-	To be predicted
+MESH:D029481	Bronchitis, Chronic	['2008']	Mapped
+MESH:D007037	Hypothyroidism	-	To be predicted
+MESH:D002544	Cerebral Infarction	['192', '2022', '2150']	Mapped
+MESH:D002561	Cerebrovascular Disorders	-	To be predicted
+MESH:D006261	Headache	-	To be predicted
+MESH:D011782	Quadriplegia	-	To be predicted
+MESH:D000013	Congenital Abnormalities	-	To be predicted
+MESH:D000208	Acute Disease	-	To be predicted
+MESH:D002057	Burns, Chemical	-	To be predicted
+MESH:D008545	Melanoma	['885', '1971']	Mapped
+MESH:D003711	Demyelinating Diseases	['191', '192', '2107', '2150']	Mapped
+MESH:D004489	Edema, Cardiac	['317']	Mapped
+MESH:D006335	Heart Injuries	-	To be predicted
+MESH:D008228	Lymphoma, Non-Hodgkin	['885']	Mapped
+MESH:D009222	Myotonia	-	To be predicted
+MESH:D011014	Pneumonia	['1993']	Mapped
+MESH:D012220	Rhinitis	['2086']	Mapped
+MESH:D065631	Rhinitis, Allergic	['313']	Mapped
+MESH:D003093	Colitis, Ulcerative	-	To be predicted
+MESH:D003490	Cyanosis	-	To be predicted
+MESH:D014571	Urologic Neoplasms	['885']	Mapped
+MESH:D017453	Dermatitis, Irritant	['827']	Mapped
+MESH:D000544	Alzheimer Disease	['352', '1514', '2150']	Mapped
+MESH:D003715	Dengue	-	To be predicted
+MESH:D004681	Encephalomyelitis, Autoimmune, Experimental	-	To be predicted
+MESH:D019082	Smith-Lemli-Opitz Syndrome	-	To be predicted
+MESH:D009468	Neuromuscular Diseases	-	To be predicted
+MESH:D016142	Holoprosencephaly	['2121']	Mapped
+MESH:D008133	Long QT Syndrome	-	To be predicted
+MESH:D010523	Peripheral Nervous System Diseases	-	To be predicted
+MESH:D009133	Muscular Atrophy	-	To be predicted
+MESH:D005512	Food Hypersensitivity	-	To be predicted
+MESH:D000083242	Ischemic Stroke	-	To be predicted
+MESH:D020528	Multiple Sclerosis, Chronic Progressive	-	To be predicted
+MESH:D016584	Panic Disorder	-	To be predicted
+MESH:D011618	Psychotic Disorders	-	To be predicted
+MESH:D051436	Renal Insufficiency, Chronic	['1603']	Mapped
+MESH:D012559	Schizophrenia	-	To be predicted
+MESH:D045743	Scleroderma, Diffuse	-	To be predicted
+MESH:D014808	Vitamin D Deficiency	-	To be predicted
+MESH:D001289	Attention Deficit Disorder with Hyperactivity	['2150']	Mapped
+MESH:D001281	Atrial Fibrillation	['317']	Mapped
+MESH:D011085	Polycystic Ovary Syndrome	-	To be predicted
+MESH:D006323	Heart Arrest	['317']	Mapped
+MESH:D020567	Fetal Weight	-	To be predicted
+MESH:D011649	Pulmonary Alveolar Proteinosis	-	To be predicted
+MESH:D015419	Spastic Paraplegia, Hereditary	-	To be predicted
+MESH:D007676	Kidney Failure, Chronic	['759']	Mapped
+MESH:D065626	Non-alcoholic Fatty Liver Disease	['345', '2019']	Mapped
+MESH:D002972	Cleft Palate	-	To be predicted
+MESH:D018270	Carcinoma, Ductal, Breast	['1193']	Mapped
+MESH:D002278	Carcinoma in Situ	['1971', '885']	Mapped
+MESH:D002296	Carcinosarcoma	-	To be predicted
+MESH:D007417	Intestinal Polyps	-	To be predicted
+MESH:D016399	Lymphoma, T-Cell	-	To be predicted
+MESH:D044342	Malnutrition	-	To be predicted
+MESH:D053842	Microsatellite Instability	['1896']	Mapped
+MESH:D012468	Salivary Gland Neoplasms	-	To be predicted
+MESH:D012626	Sebaceous Gland Neoplasms	-	To be predicted
+MESH:D002430	Cecal Neoplasms	-	To be predicted
+MESH:D019337	Hematologic Neoplasms	-	To be predicted
+MESH:D007951	Leukemia, Myeloid	-	To be predicted
+MESH:D010911	Pituitary Neoplasms	-	To be predicted
+MESH:D002295	Carcinoma, Transitional Cell	['885']	Mapped
+MESH:D010490	Pericardial Effusion	-	To be predicted
+MESH:D006486	Hemosiderosis	-	To be predicted
+MESH:D007681	Kidney Papillary Necrosis	-	To be predicted
+MESH:D006030	Glycosuria, Renal	-	To be predicted
+MESH:D000608	Renal Aminoacidurias	-	To be predicted
+MESH:D001836	Body Weight Changes	-	To be predicted
+MESH:D003371	Cough	-	To be predicted
+MESH:D001768	Blister	-	To be predicted
+MESH:D003872	Dermatitis	-	To be predicted
+MESH:D004890	Erythema	-	To be predicted
+MESH:D000860	Hypoxia	['590', '2075']	Mapped
+MESH:D012128	Respiratory Distress Syndrome	['445']	Mapped
+MESH:D017443	Skin Diseases, Eczematous	-	To be predicted
+MESH:D005124	Eye Abnormalities	-	To be predicted
+MESH:D017496	Hypopigmentation	-	To be predicted
+MESH:D009421	Nervous System Malformations	['191', '2150']	Mapped
+MESH:D002526	Cerebellar Diseases	['191', '192', '2150']	Mapped
+MESH:D002303	Cardiac Output, Low	['317', '1532', '1533']	Mapped
+MESH:D010859	Pigmentation Disorders	-	To be predicted
+MESH:D002764	Cholecystitis	-	To be predicted
+MESH:D005313	Fetal Death	['592', '636']	Mapped
+MESH:D013276	Stomach Ulcer	['1385']	Mapped
+MESH:D050177	Overweight	['1447', '2129']	Mapped
+MESH:D004677	Encephalocele	-	To be predicted
+MESH:D043171	Chromosomal Instability	['1896']	Mapped
+MESH:D007410	Intestinal Diseases	-	To be predicted
+MESH:D017379	Hypertrophy, Left Ventricular	['2001']	Mapped
+MESH:D013896	Thoracic Diseases	-	To be predicted
+MESH:D001745	Urinary Bladder Diseases	-	To be predicted
+MESH:D018226	Fibroadenoma	-	To be predicted
+MESH:D005350	Fibroma	-	To be predicted
+MESH:D008067	Lipoma	-	To be predicted
+MESH:D008599	Menstruation Disturbances	-	To be predicted
+MESH:D019042	Muscle Neoplasms	-	To be predicted
+MESH:D063766	Pediatric Obesity	['1447', '2129']	Mapped
+MESH:D001929	Brain Edema	['192', '2150']	Mapped
+MESH:D008268	Macular Degeneration	-	To be predicted
+MESH:D009389	Neovascularization, Pathologic	-	To be predicted
+MESH:D005923	Glomerulosclerosis, Focal Segmental	-	To be predicted
+MESH:D015837	Vestibular Diseases	-	To be predicted
+MESH:D007738	Kyphosis	['191', '192']	Mapped
+MESH:D000072660	Teratozoospermia	['330', '337']	Mapped
+MESH:D001523	Mental Disorders	-	To be predicted
+MESH:D000853	Anophthalmos	['1001']	Mapped
+MESH:D008850	Microphthalmos	-	To be predicted
+MESH:D010468	Perceptual Disorders	-	To be predicted
+MESH:D007642	Keratosis	-	To be predicted
+MESH:D010787	Photosensitivity Disorders	-	To be predicted
+MESH:D019767	Maxillofacial Abnormalities	-	To be predicted
+MESH:D016464	Lysosomal Storage Diseases	-	To be predicted
+MESH:D007154	Immune System Diseases	['403']	Mapped
+MESH:D001941	Breast Diseases	-	To be predicted
+MESH:D003015	Clostridium Infections	-	To be predicted
+MESH:D002819	Chorea	-	To be predicted
+MESH:D015834	Cochlear Diseases	-	To be predicted
+MESH:D004427	Ear Diseases	-	To be predicted
+MESH:D034381	Hearing Loss	['1008']	Mapped
+MESH:D000857	Olfaction Disorders	['1873']	Mapped
+MESH:D005879	Tourette Syndrome	-	To be predicted
+MESH:D054506	Chloracne	-	To be predicted
+MESH:D014523	Urethral Neoplasms	-	To be predicted
+MESH:D001014	Aortic Aneurysm	-	To be predicted
+MESH:D008207	Lymphatic Metastasis	-	To be predicted
+MESH:D013272	Stomach Diseases	-	To be predicted
+MESH:D001018	Aortic Diseases	['317', '2161']	Mapped
+MESH:D018376	Cardiovascular Abnormalities	-	To be predicted
+MESH:D015529	Choledochal Cyst	-	To be predicted
+MESH:D006961	Hyperparathyroidism	-	To be predicted
+MESH:D018636	Hypoplastic Left Heart Syndrome	-	To be predicted
+MESH:D007571	Jaw Diseases	-	To be predicted
+MESH:D016491	Peripheral Vascular Diseases	-	To be predicted
+MESH:D018754	Ventricular Dysfunction	-	To be predicted
+MESH:D019282	Wasting Syndrome	-	To be predicted
+MESH:D008708	Methemoglobinemia	-	To be predicted
+MESH:D009123	Muscle Hypotonia	-	To be predicted
+MESH:D010291	Paresis	-	To be predicted
+MESH:D019190	Iron Overload	['2149']	Mapped
+MESH:D006311	Hearing Disorders	['1008']	Mapped
+MESH:D008582	Meningitis, Aseptic	-	To be predicted
+MESH:D002312	Cardiomyopathy, Hypertrophic	['317']	Mapped
+MESH:D015209	Cholangitis, Sclerosing	-	To be predicted
+MESH:D017094	Porphyrias, Hepatic	-	To be predicted
+MESH:D014511	Uremia	-	To be predicted
+MESH:D003244	Consciousness Disorders	-	To be predicted
+MESH:D017180	Tachycardia, Ventricular	-	To be predicted
+MESH:D008679	Metaplasia	-	To be predicted
+MESH:D004614	Emaciation	-	To be predicted
+MESH:D012135	Respiratory Sounds	-	To be predicted
+MESH:D012798	Sialorrhea	-	To be predicted
+MESH:D010024	Osteoporosis	['1151']	Mapped
+MESH:D001004	Anus Diseases	-	To be predicted
+MESH:D011681	Pupil Disorders	-	To be predicted
+MESH:D004719	Endomyocardial Fibrosis	['317']	Mapped
+MESH:D018487	Ventricular Dysfunction, Left	-	To be predicted
+MESH:D006816	Huntington Disease	['192', '2150']	Mapped
+MESH:D059445	Anhedonia	-	To be predicted
+MESH:D013035	Spasm	-	To be predicted
+MESH:D000647	Amnesia	['1941', '2150']	Mapped
+MESH:D009128	Muscle Spasticity	-	To be predicted
+MESH:D054220	Malformations of Cortical Development	-	To be predicted
+MESH:D017689	Polydactyly	-	To be predicted
+MESH:D012734	Disorders of Sex Development	['364']	Mapped
+MESH:D042882	Gallstones	-	To be predicted
+MESH:D011537	Pruritus	-	To be predicted
+MESH:D006042	Goiter	-	To be predicted
+MESH:D007565	Jaundice	-	To be predicted
+MESH:D009902	Optic Neuritis	['192', '2150']	Mapped
+MESH:D012162	Retinal Degeneration	-	To be predicted
+MESH:D016535	Bronchial Hyperreactivity	-	To be predicted
+MESH:D003233	Conjunctivitis, Allergic	-	To be predicted
+MESH:D004802	Eosinophilia	-	To be predicted
+MESH:D006029	Glycosuria	-	To be predicted
+MESH:D013927	Thrombosis	['1846']	Mapped
+MESH:D009364	Neoplasm Recurrence, Local	-	To be predicted
+MESH:D007673	Kidney Cortex Necrosis	-	To be predicted
+MESH:D004417	Dyspnea	-	To be predicted
+MESH:D004827	Epilepsy	['191', '192', '1363', '2150']	Mapped
+MESH:D012131	Respiratory Insufficiency	['1250']	Mapped
+MESH:D004832	Epilepsy, Absence	-	To be predicted
+MESH:D004831	Epilepsies, Myoclonic	-	To be predicted
+MESH:D001068	Feeding and Eating Disorders	-	To be predicted
+MESH:D003873	Dermatitis, Exfoliative	-	To be predicted
+MESH:D004378	Duodenal Diseases	-	To be predicted
+MESH:D011507	Proteinuria	-	To be predicted
+MESH:D004660	Encephalitis	['191', '192', '2150']	Mapped
+MESH:D004240	Diverticulum	-	To be predicted
+MESH:D014514	Ureteral Calculi	-	To be predicted
+MESH:D001744	Urinary Bladder Calculi	-	To be predicted
+MESH:D052878	Urolithiasis	-	To be predicted
+MESH:D014570	Urologic Diseases	-	To be predicted
+MESH:D000326	Adrenoleukodystrophy	-	To be predicted
+MESH:D060825	Cognitive Dysfunction	['402']	Mapped
+MESH:C536004	Familial apoceruloplasmin deficiency	['2149']	Mapped
+MESH:D008108	Liver Diseases, Alcoholic	['2034']	Mapped
+MESH:D009205	Myocarditis	-	To be predicted
+MESH:D029424	Pulmonary Disease, Chronic Obstructive	['1250', '2008']	Mapped
+MESH:C535803	succinic semialdehyde dehydrogenase deficiency	-	To be predicted
+MESH:D003556	Cystitis	-	To be predicted
+MESH:D006504	Hepatic Veno-Occlusive Disease	-	To be predicted
+MESH:D005262	Feminization	['240']	Mapped
+MESH:D006968	Hypersensitivity, Delayed	['1818']	Mapped
+MESH:D006969	Hypersensitivity, Immediate	-	To be predicted
+MESH:D000077277	Esophageal Squamous Cell Carcinoma	-	To be predicted
+MESH:D014062	Tongue Neoplasms	['885']	Mapped
+MESH:D000077192	Adenocarcinoma of Lung	-	To be predicted
+MESH:D012202	Reye Syndrome	-	To be predicted
+MESH:D006548	Hernia, Diaphragmatic	-	To be predicted
+MESH:D000799	Angioedema	-	To be predicted
+MESH:D012206	Rhabdomyolysis	['1607']	Mapped
+MESH:D015819	Substance Abuse, Intravenous	-	To be predicted
+MESH:D054039	Onycholysis	-	To be predicted
+MESH:D016649	Primary Ovarian Insufficiency	['1883']	Mapped
+MESH:D020181	Sleep Apnea, Obstructive	-	To be predicted
+MESH:D036841	Ciguatera Poisoning	-	To be predicted
+MESH:D003221	Confusion	-	To be predicted
+MESH:D015878	Mydriasis	-	To be predicted
+MESH:D020230	Serotonin Syndrome	-	To be predicted
+MESH:D003229	Conjunctival Diseases	-	To be predicted
+MESH:D006940	Hyperemia	['317']	Mapped
+MESH:D000232	Adenofibroma	-	To be predicted
+MESH:D007890	Leiomyosarcoma	['870', '1555']	Mapped
+MESH:D015427	Reperfusion Injury	-	To be predicted
+MESH:D002637	Chest Pain	-	To be predicted
+MESH:D013617	Tachycardia, Supraventricular	-	To be predicted
+MESH:D007416	Intestinal Perforation	-	To be predicted
+MESH:D020879	Neuromuscular Manifestations	-	To be predicted
+MESH:D014076	Tooth Diseases	-	To be predicted
+MESH:D015814	Ocular Hypotension	-	To be predicted
+MESH:D001928	Brain Diseases, Metabolic	-	To be predicted
+MESH:D000312	Adrenal Hyperplasia, Congenital	-	To be predicted
+MESH:D006628	Hirsutism	-	To be predicted
+MESH:D012700	Serositis	-	To be predicted
+MESH:D003922	Diabetes Mellitus, Type 1	-	To be predicted
+MESH:D005221	Fatigue	-	To be predicted
+MESH:D063806	Myalgia	-	To be predicted
+MESH:D013616	Tachycardia, Sinus	-	To be predicted
+MESH:D005316	Fetal Distress	-	To be predicted
+MESH:D005759	Gastroenteritis	-	To be predicted
+MESH:D000077260	Sleepiness	-	To be predicted
+MESH:D013122	Spinal Diseases	-	To be predicted
+MESH:D004342	Drug Hypersensitivity	-	To be predicted
+MESH:D020326	Migraine without Aura	-	To be predicted
+MESH:D013625	Takayasu Arteritis	-	To be predicted
+MESH:D006556	Heroin Dependence	-	To be predicted
+MESH:D000749	Anemia, Megaloblastic	-	To be predicted
+MESH:D016055	Urinary Retention	-	To be predicted
+MESH:D014555	Urination Disorders	-	To be predicted
+MESH:D054079	Vascular Malformations	-	To be predicted
+MESH:D001449	Balkan Nephropathy	-	To be predicted
+MESH:D001984	Bronchial Neoplasms	-	To be predicted
+MESH:D007822	Laryngeal Neoplasms	-	To be predicted
+MESH:D014134	Tracheal Neoplasms	-	To be predicted
+MESH:D003251	Constriction, Pathologic	-	To be predicted
+MESH:D011225	Pre-Eclampsia	['1893']	Mapped
+MESH:D057772	Vascular System Injuries	['2161']	Mapped
+MESH:C535306	2-Hydroxyglutaricaciduria	-	To be predicted
+MESH:D020022	Genetic Predisposition to Disease	-	To be predicted
+MESH:D008180	Lupus Erythematosus, Systemic	-	To be predicted
+MESH:D000086002	Mesothelioma, Malignant	-	To be predicted
+MESH:D006317	Hearing Loss, Noise-Induced	-	To be predicted
+MESH:D010198	Pancytopenia	-	To be predicted
+MESH:D044584	Carcinoma, Ductal	['885']	Mapped
+MESH:D066126	Cardiotoxicity	-	To be predicted
+MESH:D010922	Placenta Diseases	-	To be predicted
+MESH:D000077195	Squamous Cell Carcinoma of Head and Neck	['885']	Mapped
+MESH:D000741	Anemia, Aplastic	-	To be predicted
+MESH:D018500	Diabetes Insipidus, Nephrogenic	-	To be predicted
+MESH:D005198	Fanconi Syndrome	-	To be predicted
+MESH:D009203	Myocardial Infarction	['1934']	Mapped
+MESH:D009293	Opioid-Related Disorders	-	To be predicted
+MESH:D014693	Ventricular Fibrillation	-	To be predicted
+MESH:D003693	Delirium	-	To be predicted
+MESH:D010939	Plant Poisoning	-	To be predicted
+MESH:D001002	Anuria	-	To be predicted
+MESH:D003704	Dementia	['192', '2150']	Mapped
+MESH:D009503	Neutropenia	-	To be predicted
+MESH:D014012	Tinnitus	-	To be predicted
+MESH:D003875	Drug Eruptions	-	To be predicted
+MESH:D009157	Myasthenia Gravis	-	To be predicted
+MESH:D018366	Vasculitis, Leukocytoclastic, Cutaneous	-	To be predicted
+MESH:D006356	Heartburn	-	To be predicted
+MESH:D006469	Hemoptysis	-	To be predicted
+MESH:D008581	Meningitis	-	To be predicted
+MESH:D014657	Vasculitis	-	To be predicted
+MESH:D014717	Vertigo	-	To be predicted
+MESH:D004211	Disseminated Intravascular Coagulation	-	To be predicted
+MESH:D020428	Femoral Neuropathy	-	To be predicted
+MESH:D006406	Hematoma	-	To be predicted
+MESH:D006408	Hematoma, Subdural	-	To be predicted
+MESH:D006987	Hypesthesia	-	To be predicted
+MESH:D020300	Intracranial Hemorrhages	-	To be predicted
+MESH:D019547	Neck Pain	-	To be predicted
+MESH:D009408	Nerve Compression Syndromes	-	To be predicted
+MESH:D012422	Rupture, Spontaneous	-	To be predicted
+MESH:D006946	Hyperinsulinism	-	To be predicted
+MESH:D019965	Neurocognitive Disorders	-	To be predicted
+MESH:D053609	Lethargy	-	To be predicted
+MESH:D013575	Syncope	-	To be predicted
+MESH:D002310	Cardiomyopathy, Alcoholic	['317']	Mapped
+MESH:D005235	Fatty Liver, Alcoholic	['327', '2125']	Mapped
+MESH:D015746	Abdominal Pain	-	To be predicted
+MESH:D009008	Abnormalities, Severe Teratoid	-	To be predicted
+MESH:D000138	Acidosis	-	To be predicted
+MESH:D000140	Acidosis, Lactic	-	To be predicted
+MESH:D000707	Anaphylaxis	-	To be predicted
+MESH:D053099	Azotemia	-	To be predicted
+MESH:D019575	Blindness, Cortical	-	To be predicted
+MESH:D016534	Cardiac Output, High	-	To be predicted
+MESH:D056487	Chemical and Drug Induced Liver Injury, Chronic	-	To be predicted
+MESH:D015267	Churg-Strauss Syndrome	-	To be predicted
+MESH:D003645	Death, Sudden	-	To be predicted
+MESH:D062787	Drug Overdose	-	To be predicted
+MESH:D004830	Epilepsy, Tonic-Clonic	['191', '192', '1363', '2150']	Mapped
+MESH:D005076	Exanthema	-	To be predicted
+MESH:D005756	Gastritis	-	To be predicted
+MESH:D006471	Gastrointestinal Hemorrhage	-	To be predicted
+MESH:D020773	Headache Disorders	-	To be predicted
+MESH:D006501	Hepatic Encephalopathy	-	To be predicted
+MESH:D022124	Hyperammonemia	-	To be predicted
+MESH:D006985	Hyperventilation	-	To be predicted
+MESH:D034141	Hypoalbuminemia	-	To be predicted
+MESH:D017674	Hypophosphatemia	-	To be predicted
+MESH:D020896	Hypovolemia	-	To be predicted
+MESH:D011695	IgA Vasculitis	-	To be predicted
+MESH:D019586	Intracranial Hypertension	-	To be predicted
+MESH:D007906	Lens Subluxation	-	To be predicted
+MESH:D017093	Liver Failure	['2034']	Mapped
+MESH:D018777	Multiple Chemical Sensitivity	-	To be predicted
+MESH:D009102	Multiple Organ Failure	['1843']	Mapped
+MESH:D009393	Nephritis	-	To be predicted
+MESH:D009395	Nephritis, Interstitial	-	To be predicted
+MESH:D009397	Nephrocalcinosis	-	To be predicted
+MESH:D065886	Neurodevelopmental Disorders	['191', '2150']	Mapped
+MESH:D009846	Oliguria	-	To be predicted
+MESH:D011183	Postoperative Complications	-	To be predicted
+MESH:D010149	Postoperative Pain	-	To be predicted
+MESH:D011693	Purpura	-	To be predicted
+MESH:D055665	Purpura Fulminans	-	To be predicted
+MESH:D016553	Purpura, Thrombocytopenic, Idiopathic	-	To be predicted
+MESH:D012185	Retroperitoneal Fibrosis	-	To be predicted
+MESH:D014516	Ureteral Neoplasms	-	To be predicted
+MESH:D014517	Ureteral Obstruction	-	To be predicted
+MESH:D014581	Urticaria	['827']	Mapped
+MESH:D014652	Vascular Diseases	-	To be predicted
+MESH:D051271	Headache Disorders, Secondary	-	To be predicted
+MESH:D001714	Bipolar Disorder	-	To be predicted
+MESH:D006417	Hematuria	-	To be predicted
+MESH:D007040	Hypoventilation	-	To be predicted
+MESH:D013064	Speech Disorders	-	To be predicted
+MESH:D003638	Deafness	-	To be predicted
+MESH:D015877	Miosis	-	To be predicted
+MESH:D000075222	Essential Hypertension	-	To be predicted
+MESH:D058426	Neointima	-	To be predicted
+MESH:D000532	Altitude Sickness	-	To be predicted
+MESH:D001049	Apnea	-	To be predicted
+MESH:D001926	Brain Death	-	To be predicted
+MESH:D002524	Cerebellar Ataxia	-	To be predicted
+MESH:D004620	Embolism, Fat	-	To be predicted
+MESH:D007172	Erectile Dysfunction	-	To be predicted
+MESH:D005862	Gerstmann Syndrome	-	To be predicted
+MESH:D006345	Heart Septal Defects, Ventricular	-	To be predicted
+MESH:D016857	Hypocapnia	-	To be predicted
+MESH:D020514	Hypokalemic Periodic Paralysis	-	To be predicted
+MESH:D007669	Kidney Calculi	-	To be predicted
+MESH:D008881	Migraine Disorders	['192', '2150']	Mapped
+MESH:D053040	Nephrolithiasis	-	To be predicted
+MESH:D010292	Paresthesia	-	To be predicted
+MESH:D011559	Pseudotumor Cerebri	-	To be predicted
+MESH:D056844	Renal Colic	-	To be predicted
+MESH:D012393	Rosacea	-	To be predicted
+MESH:D020225	Sagittal Sinus Thrombosis	-	To be predicted
+MESH:D012893	Sleep Wake Disorders	-	To be predicted
+MESH:D013651	Taste Disorders	-	To be predicted
+MESH:D014545	Urinary Calculi	-	To be predicted
+MESH:D014549	Urinary Incontinence	-	To be predicted
+MESH:D014715	Vertebrobasilar Insufficiency	-	To be predicted
+MESH:D059787	Acute Pain	-	To be predicted
+MESH:D006869	Hydronephrosis	-	To be predicted
+MESH:D010437	Peptic Ulcer	['1385']	Mapped
+MESH:D011350	Proctocolitis	-	To be predicted
+MESH:D011704	Pyelonephritis	-	To be predicted
+MESH:D053201	Urinary Bladder, Overactive	-	To be predicted
+MESH:D059265	Visceral Pain	-	To be predicted
+MESH:D000022	Abortion, Spontaneous	-	To be predicted
+MESH:D053608	Stupor	-	To be predicted
+MESH:D003389	Cranial Nerve Diseases	-	To be predicted
+MESH:D015175	Prolactinoma	-	To be predicted
+MESH:D003329	Coronary Vasospasm	['317', '1532']	Mapped
+MESH:D012120	Respiration Disorders	-	To be predicted
+MESH:D001986	Bronchial Spasm	-	To be predicted
+MESH:D054078	Mevalonate Kinase Deficiency	-	To be predicted
+MESH:C535438	Bidirectional tachycardia	-	To be predicted
+MESH:D020434	Abducens Nerve Diseases	-	To be predicted
+MESH:C538169	Acitretin embryopathy	-	To be predicted
+MESH:D020520	Brain Infarction	-	To be predicted
+MESH:D019559	Capillary Leak Syndrome	-	To be predicted
+MESH:D004172	Diplopia	-	To be predicted
+MESH:D055154	Dysphonia	-	To be predicted
+MESH:D008831	Microcephaly	['1001']	Mapped
+MESH:D004401	Dysarthria	['192', '2150']	Mapped
+MESH:D001282	Atrial Flutter	-	To be predicted
+MESH:D054537	Atrioventricular Block	['444']	Mapped
+MESH:D001342	Autonomic Nervous System Diseases	-	To be predicted
+MESH:D009058	Mouth Breathing	-	To be predicted
+MESH:D009668	Nose Diseases	-	To be predicted
+MESH:D015208	Smoke Inhalation Injury	-	To be predicted
+MESH:D012912	Sneezing	-	To be predicted
+MESH:D014133	Tracheal Diseases	-	To be predicted
+MESH:D010264	Paraplegia	-	To be predicted
+MESH:D050171	Dyslipidemias	-	To be predicted
+MESH:D016472	Motor Neuron Disease	['2150']	Mapped
+MESH:D000090862	Neuroinflammatory Diseases	['191', '2150']	Mapped
+MESH:D020426	Sciatic Neuropathy	-	To be predicted
+MESH:D001254	Astrocytoma	-	To be predicted
+MESH:D007766	Lacrimal Apparatus Diseases	-	To be predicted
+MESH:D007888	Leigh Disease	-	To be predicted
+MESH:D001129	Argyria	-	To be predicted
+MESH:D010259	Paranoid Disorders	-	To be predicted
+MESH:D011141	Polyuria	-	To be predicted
+MESH:D054038	Posterior Leukoencephalopathy Syndrome	-	To be predicted
+MESH:D012872	Skin Diseases, Vesiculobullous	-	To be predicted
+MESH:D013924	Thrombophlebitis	-	To be predicted
+MESH:D018923	Persian Gulf Syndrome	-	To be predicted
+MESH:D011123	Polyploidy	['536']	Mapped
+MESH:D013611	Tachycardia, Atrioventricular Nodal Reentry	-	To be predicted
+MESH:D006530	Hepatorenal Syndrome	-	To be predicted
+MESH:D010018	Osteomalacia	-	To be predicted
+MESH:D010996	Pleural Effusion	-	To be predicted
+MESH:D018805	Sepsis	-	To be predicted
+MESH:D002114	Calcinosis	['1536', '2145']	Mapped
+MESH:D061205	Vascular Calcification	-	To be predicted
+MESH:D004244	Dizziness	-	To be predicted
+MESH:D054138	Sinus Arrest, Cardiac	-	To be predicted
+MESH:D000419	Albuminuria	-	To be predicted
+MESH:D008199	Lymphadenitis	-	To be predicted
+MESH:D020370	Osteoarthritis, Knee	-	To be predicted
+MESH:D001172	Arthritis, Rheumatoid	-	To be predicted
+MESH:D001862	Bone Resorption	-	To be predicted
+MESH:D002100	Cachexia	['864', '2145']	Mapped
+MESH:D002357	Cartilage Diseases	['2089']	Mapped
+MESH:D001855	Bone Marrow Diseases	-	To be predicted
+MESH:D000307	Adrenal Gland Diseases	-	To be predicted
+MESH:D001228	Aspergillosis	-	To be predicted
+MESH:D001416	Back Pain	-	To be predicted
+MESH:D056833	Central Serous Chorioretinopathy	-	To be predicted
+MESH:D002653	Child Behavior Disorders	-	To be predicted
+MESH:D003316	Corneal Diseases	-	To be predicted
+MESH:D003876	Dermatitis, Atopic	-	To be predicted
+MESH:D019557	Dermatitis, Perioral	-	To be predicted
+MESH:D004239	Diverticulitis, Colonic	-	To be predicted
+MESH:D004617	Embolism	-	To be predicted
+MESH:D005271	Femur Head Necrosis	-	To be predicted
+MESH:D005901	Glaucoma	-	To be predicted
+MESH:D020275	Guillain-Barre Syndrome	-	To be predicted
+MESH:D006341	Heart Rupture	-	To be predicted
+MESH:D006509	Hepatitis B	-	To be predicted
+MESH:D006606	Hiccup	-	To be predicted
+MESH:D007018	Hypopituitarism	-	To be predicted
+MESH:D007238	Infarction	-	To be predicted
+MESH:D007511	Ischemia	-	To be predicted
+MESH:D007710	Klebsiella Infections	-	To be predicted
+MESH:D009404	Nephrotic Syndrome	-	To be predicted
+MESH:D009437	Neuralgia	-	To be predicted
+MESH:D009798	Ocular Hypertension	['952', '1343']	Mapped
+MESH:D009901	Optic Nerve Diseases	-	To be predicted
+MESH:D010020	Osteonecrosis	-	To be predicted
+MESH:D010211	Papilledema	-	To be predicted
+MESH:D010493	Pericarditis	-	To be predicted
+MESH:D020427	Peroneal Neuropathies	-	To be predicted
+MESH:D011020	Pneumonia, Pneumocystis	-	To be predicted
+MESH:D012008	Recurrence	-	To be predicted
+MESH:D012163	Retinal Detachment	-	To be predicted
+MESH:D012595	Scleroderma, Systemic	-	To be predicted
+MESH:D013117	Spinal Cord Compression	-	To be predicted
+MESH:D000787	Angina Pectoris	-	To be predicted
+MESH:D005483	Flushing	-	To be predicted
+MESH:D007024	Hypotension, Orthostatic	-	To be predicted
+MESH:D020511	Neuromuscular Junction Diseases	-	To be predicted
+MESH:D011928	Raynaud Disease	['1846']	Mapped
+MESH:D012769	Shock	-	To be predicted
+MESH:D058540	Aicardi Syndrome	-	To be predicted
+MESH:D006849	Hydrocephalus	-	To be predicted
+MESH:D003865	Major Depressive Disorder	-	To be predicted
+MESH:D009347	Nelson Syndrome	-	To be predicted
+MESH:D047748	Pituitary ACTH Hypersecretion	-	To be predicted
+MESH:D013353	Subdural Effusion	-	To be predicted
+MESH:D005921	Glomerulonephritis	-	To be predicted
+MESH:D016889	Endometrial Neoplasms	-	To be predicted
+MESH:D025063	Chromosome Disorders	-	To be predicted
+MESH:D052439	Lipid Metabolism Disorders	['1060', '1995']	Mapped
+MESH:D005517	Foodborne Diseases	-	To be predicted
+MESH:D015651	Mycotoxicosis	-	To be predicted
+MESH:D017486	Acneiform Eruptions	-	To be predicted
+MESH:D000505	Alopecia	-	To be predicted
+MESH:D004415	Dyspepsia	-	To be predicted
+MESH:D012877	Skin Manifestations	-	To be predicted
+MESH:D005094	Exophthalmos	-	To be predicted
+MESH:D006349	Heart Valve Diseases	-	To be predicted
+MESH:D011843	Radiculopathy	-	To be predicted
+MESH:D054556	Venous Thromboembolism	-	To be predicted
+MESH:D000542	Alveolitis, Extrinsic Allergic	-	To be predicted
+MESH:D020261	Arsenic Poisoning	-	To be predicted
+MESH:D018880	Atrial Premature Complexes	-	To be predicted
+MESH:D001988	Bronchiolitis	-	To be predicted
+MESH:D001991	Bronchitis	-	To be predicted
+MESH:C563733	Carotid Intimal Medial Thickness 1	-	To be predicted
+MESH:D002446	Celiac Disease	-	To be predicted
+MESH:D002543	Cerebral Hemorrhage	['192', '2150']	Mapped
+MESH:D019955	Conduct Disorder	-	To be predicted
+MESH:D003324	Coronary Artery Disease	-	To be predicted
+MESH:D000086382	COVID-19	-	To be predicted
+MESH:D004374	Ductus Arteriosus, Patent	-	To be predicted
+MESH:D020920	Dyssomnias	-	To be predicted
+MESH:D050723	Fractures, Bone	-	To be predicted
+MESH:D044882	Glucose Metabolism Disorders	['1952']	Mapped
+MESH:D006344	Heart Septal Defects, Atrial	-	To be predicted
+MESH:D000083302	Hemorrhagic Stroke	-	To be predicted
+MESH:D015228	Hypertriglyceridemia	['291', '454', '881']	Mapped
+MESH:D052456	Hypoalphalipoproteinemias	-	To be predicted
+MESH:D017563	Lung Diseases, Interstitial	['1250']	Mapped
+MESH:D009080	Mucocutaneous Lymph Node Syndrome	-	To be predicted
+MESH:C536092	Mycobacterium tuberculosis, susceptibility to infection by	-	To be predicted
+MESH:D058729	Peripheral Arterial Disease	-	To be predicted
+OMIM:608852	PULMONARY FUNCTION	-	To be predicted
+MESH:D012140	Respiratory Tract Diseases	['1250']	Mapped
+MESH:D012818	Signs and Symptoms, Respiratory	-	To be predicted
+MESH:D000072657	ST Elevation Myocardial Infarction	-	To be predicted
+MESH:D013771	Tetralogy of Fallot	-	To be predicted
+MESH:D014397	Tuberculosis, Pulmonary	['1250']	Mapped
+MESH:D002583	Uterine Cervical Neoplasms	-	To be predicted
+MESH:D002095	Byssinosis	-	To be predicted
+MESH:D002908	Chronic Disease	-	To be predicted
+MESH:D018876	Environmental Illness	-	To be predicted
+MESH:D004844	Epistaxis	-	To be predicted
+MESH:D008173	Lung Diseases, Obstructive	['1250']	Mapped
+MESH:D011009	Pneumoconiosis	-	To be predicted
+MESH:D053840	Brugada Syndrome	-	To be predicted
+MESH:D002037	Bundle-Branch Block	-	To be predicted
+MESH:D023341	Chills	-	To be predicted
+MESH:D014973	Xanthomatosis	-	To be predicted
+MESH:D009101	Multiple Myeloma	-	To be predicted
+MESH:D005158	Facial Paralysis	-	To be predicted
+MESH:D020019	Neurocysticercosis	-	To be predicted
+MESH:D011129	Polyradiculoneuropathy	-	To be predicted
+MESH:D013280	Stomatitis	-	To be predicted
+MESH:D002311	Cardiomyopathy, Dilated	['317']	Mapped
+MESH:D009120	Muscle Cramp	-	To be predicted
+MESH:D014694	Ventricular Outflow Obstruction	-	To be predicted
+MESH:D020526	Brain Stem Infarctions	-	To be predicted
+MESH:D005402	Fistula	-	To be predicted
+MESH:D020766	Intracranial Embolism	-	To be predicted
+MESH:D000152	Acne Vulgaris	-	To be predicted
+MESH:D000435	Alcoholic Intoxication	-	To be predicted
+MESH:D020751	Alcohol-Induced Disorders	-	To be predicted
+MESH:D000437	Alcoholism	-	To be predicted
+MESH:D019973	Alcohol-Related Disorders	-	To be predicted
+MESH:D001763	Blepharoptosis	-	To be predicted
+MESH:D000084462	Hyperthermia	-	To be predicted
+MESH:D008607	Intellectual Disability	['192', '2150']	Mapped
+MESH:D015835	Ocular Motility Disorders	-	To be predicted
+MESH:D011317	Priapism	-	To be predicted
+MESH:D012735	Sexual Dysfunction, Physiological	-	To be predicted
+MESH:D013009	Somnambulism	-	To be predicted
+MESH:D014786	Vision Disorders	-	To be predicted
+MESH:D000080983	Bone Marrow Failure Disorders	-	To be predicted
+MESH:D014947	Wounds and Injuries	-	To be predicted
+MESH:D004066	Digestive System Diseases	-	To be predicted
+MESH:D005203	Farmer's Lung	-	To be predicted
+MESH:D005761	Gastroenteritis, Transmissible, of Swine	-	To be predicted
+MESH:D006929	Hyperaldosteronism	-	To be predicted
+MESH:D056929	Liddle Syndrome	-	To be predicted
+MESH:D003680	Deglutition Disorders	-	To be predicted
+MESH:D004382	Duodenitis	-	To be predicted
+MESH:D009877	Endophthalmitis	-	To be predicted
+MESH:D004892	Erythema Multiforme	-	To be predicted
+MESH:D004941	Esophagitis	-	To be predicted
+MESH:D005764	Gastroesophageal Reflux	-	To be predicted
+MESH:D013585	Synovitis	-	To be predicted
+MESH:D014552	Urinary Tract Infections	-	To be predicted
+MESH:D000471	Alkalosis	-	To be predicted
+MESH:D054559	Hyperphosphatemia	-	To be predicted
+MESH:D012279	Rickets	['2091']	Mapped
+MESH:D020250	Postoperative Nausea and Vomiting	-	To be predicted
+MESH:D012133	Respiratory Paralysis	-	To be predicted
+MESH:D000142	Acidosis, Respiratory	-	To be predicted
+MESH:D006935	Hypercapnia	-	To be predicted
+MESH:D058926	Intraoperative Awareness	-	To be predicted
+MESH:D009759	Nystagmus, Pathologic	-	To be predicted
+MESH:D012804	Sick Sinus Syndrome	-	To be predicted
+MESH:D014474	Unconsciousness	-	To be predicted
+MESH:D019694	Hepatitis B, Chronic	-	To be predicted
+MESH:D009190	Myelodysplastic Syndromes	-	To be predicted
+MESH:D001480	Basal Ganglia Diseases	['2022', '2150']	Mapped
+MESH:C564133	Ige Responsiveness, Atopic	-	To be predicted
+MESH:D053714	Aspermia	-	To be predicted
+MESH:D056648	Anti-Neutrophil Cytoplasmic Antibody-Associated Vasculitis	-	To be predicted
+MESH:D013577	Syndrome	-	To be predicted
+MESH:D002177	Candidiasis	-	To be predicted
+MESH:D052177	Kidney Diseases, Cystic	-	To be predicted
+MESH:D012208	Rhabdomyosarcoma	['885']	Mapped
+MESH:D009140	Musculoskeletal Diseases	-	To be predicted
+MESH:D007964	Leukocytosis	-	To be predicted
+MESH:D001247	Asthenia	-	To be predicted
+MESH:D009145	Mushroom Poisoning	-	To be predicted
+MESH:D007984	Leydig Cell Tumor	['416', '885', '1971']	Mapped
+MESH:D002812	Chondroma	-	To be predicted
+MESH:D006391	Hemangioma	-	To be predicted
+MESH:D002537	Intracranial Arteriosclerosis	-	To be predicted
+MESH:D014029	Tobacco Use Disorder	-	To be predicted
+MESH:D011628	Puberty, Delayed	-	To be predicted
+MESH:D053836	DNA Degradation, Necrotic	-	To be predicted
+MESH:D004775	Enuresis	-	To be predicted
+MESH:D015812	Glaucoma, Angle-Closure	-	To be predicted
+MESH:D006966	Hyperprolactinemia	-	To be predicted
+MESH:D009459	Neuroleptic Malignant Syndrome	-	To be predicted
+MESH:D020018	Sexual Dysfunctions, Psychological	['1390']	Mapped
+MESH:D000077962	Body-Weight Trajectory	-	To be predicted
+MESH:D000783	Aneurysm	-	To be predicted
+MESH:D001477	Bartter Syndrome	-	To be predicted
+MESH:D004414	Dyspareunia	-	To be predicted
+MESH:D004760	Enterocolitis	-	To be predicted
+MESH:D006958	Hyperostosis, Cortical, Congenital	-	To be predicted
+MESH:D002546	Ischemic Attack, Transient	['192', '2150']	Mapped
+MESH:D010411	Penile Induration	-	To be predicted
+MESH:D010689	Phlebitis	-	To be predicted
+MESH:D012080	Chronic Kidney Disease-Mineral and Bone Disorder	-	To be predicted
+MESH:D048909	Diabetes Complications	-	To be predicted
+MESH:D005128	Eye Diseases	-	To be predicted
+MESH:D005600	Fragile X Syndrome	-	To be predicted
+MESH:D000075322	Heavy Metal Poisoning	-	To be predicted
+MESH:D020529	Multiple Sclerosis, Relapsing-Remitting	['1514', '2150']	Mapped
+MESH:D001847	Bone Diseases	-	To be predicted
+MESH:D006932	Hyperbilirubinemia	-	To be predicted
+MESH:D056151	Airway Remodeling	-	To be predicted
+MESH:D052016	Mucositis	-	To be predicted
+MESH:D015275	Tumor Lysis Syndrome	-	To be predicted
+MESH:C535563	Absence of Tibia	-	To be predicted
+MESH:D007010	Hyponatremia	-	To be predicted
+MESH:D007177	Inappropriate ADH Syndrome	-	To be predicted
+MESH:D054068	Livedo Reticularis	-	To be predicted
+MESH:D019964	Mood Disorders	-	To be predicted
+MESH:D011605	Psychoses, Substance-Induced	-	To be predicted
+MESH:D019956	Stereotypic Movement Disorder	-	To be predicted
+MESH:D016135	Spinal Dysraphism	-	To be predicted
+MESH:D018746	Systemic Inflammatory Response Syndrome	-	To be predicted
+MESH:D014987	Xerostomia	-	To be predicted
+MESH:C564013	Deafness, Aminoglycoside-Induced	-	To be predicted
+MESH:D006312	Hearing Loss, Bilateral	-	To be predicted
+MESH:D006316	Hearing Loss, High-Frequency	-	To be predicted
+MESH:C537152	Hypomagnesemia 2, renal	-	To be predicted
+MESH:D013746	Tetany	-	To be predicted
+MESH:D000141	Acidosis, Renal Tubular	-	To be predicted
+MESH:D041781	Jaundice, Obstructive	-	To be predicted
+MESH:D000592	Amino Acid Metabolism, Inborn Errors	-	To be predicted
+MESH:D003410	Cri-du-Chat Syndrome	-	To be predicted
+MESH:D016269	Milk Hypersensitivity	-	To be predicted
+MESH:D001778	Blood Coagulation Disorders	['1845']	Mapped
+MESH:D020767	Intracranial Thrombosis	-	To be predicted
+MESH:D009212	Myoglobinuria	-	To be predicted
+MESH:D012790	Shwartzman Phenomenon	-	To be predicted
+MESH:D013345	Subarachnoid Hemorrhage	-	To be predicted
+MESH:D013923	Thromboembolism	-	To be predicted
+MESH:D057049	Thrombotic Microangiopathies	-	To be predicted
+MESH:D020301	Vasospasm, Intracranial	-	To be predicted
+MESH:D020246	Venous Thrombosis	['1846']	Mapped
+MESH:D017454	Dermatitis, Photoallergic	-	To be predicted
+MESH:D017118	Porphyria, Acute Intermittent	-	To be predicted
+MESH:D012868	Skin Abnormalities	-	To be predicted
+MESH:D020176	Tyrosinemias	-	To be predicted
+MESH:C537181	Paroxysmal nonkinesigenic dyskinesia	-	To be predicted
+MESH:D000756	Anemia, Sideroblastic	['1132']	Mapped
+MESH:D001177	Arthropathy, Neurogenic	-	To be predicted
+MESH:D001201	Ascites	-	To be predicted
+MESH:D001766	Blindness	-	To be predicted
+MESH:D017043	Chalazion	-	To be predicted
+MESH:D003117	Color Vision Defects	-	To be predicted
+MESH:D003409	Congenital Hypothyroidism	-	To be predicted
+MESH:D003288	Contusions	-	To be predicted
+MESH:D016757	Death, Sudden, Cardiac	['1964']	Mapped
+MESH:D003919	Diabetes Insipidus	-	To be predicted
+MESH:D004108	Dilatation, Pathologic	-	To be predicted
+MESH:D004283	Dog Diseases	-	To be predicted
+MESH:D004823	Epididymitis	-	To be predicted
+MESH:D004932	Esophageal and Gastric Varices	-	To be predicted
+MESH:D005130	Eye Hemorrhage	-	To be predicted
+MESH:D016523	Foot Ulcer	-	To be predicted
+MESH:D015433	Glomerulonephritis, Membranous	-	To be predicted
+MESH:D006975	Hypertension, Portal	-	To be predicted
+MESH:D007905	Lens Diseases	-	To be predicted
+MESH:D055613	Multiple Pulmonary Nodules	-	To be predicted
+MESH:D017682	Myocardial Stunning	-	To be predicted
+MESH:D009220	Myositis	-	To be predicted
+MESH:D009230	Myxedema	-	To be predicted
+MESH:D009886	Ophthalmoplegia	-	To be predicted
+MESH:D009896	Optic Atrophy	-	To be predicted
+MESH:D018917	Optic Neuropathy, Ischemic	-	To be predicted
+MESH:D020795	Photophobia	-	To be predicted
+MESH:D012848	Sinoatrial Block	-	To be predicted
+MESH:D017445	Skin Diseases, Vascular	-	To be predicted
+MESH:D013494	Supranuclear Palsy, Progressive	-	To be predicted
+MESH:D013966	Thyroiditis	-	To be predicted
+MESH:D013971	Thyrotoxicosis	-	To be predicted
+MESH:D056987	Vasoplegia	-	To be predicted
+MESH:D054141	Ventricular Flutter	-	To be predicted
+MESH:D015354	Vision, Low	-	To be predicted
+MESH:D014826	Vocal Cord Paralysis	-	To be predicted
+MESH:D000568	Amenorrhea	-	To be predicted
+MESH:D004700	Endocrine System Diseases	-	To be predicted
+MESH:D005687	Galactorrhea	-	To be predicted
+MESH:D013981	Tic Disorders	-	To be predicted
+MESH:D014313	Trismus	-	To be predicted
+MESH:D000219	Adams-Stokes Syndrome	-	To be predicted
+MESH:D002194	Capgras Syndrome	-	To be predicted
+MESH:D004696	Endocarditis	-	To be predicted
+MESH:D006685	Hoarseness	-	To be predicted
+MESH:D006974	Hypertension, Malignant	['952', '1343']	Mapped
+MESH:D007759	Labyrinth Diseases	-	To be predicted
+MESH:D009122	Muscle Hypertonia	-	To be predicted
+MESH:D019226	Oral Ulcer	-	To be predicted
+MESH:D059348	Peripheral Nerve Injuries	-	To be predicted
+MESH:D015619	Respiratory System Abnormalities	-	To be predicted
+MESH:D020886	Somatosensory Disorders	-	To be predicted
+MESH:D013543	Sweat Gland Diseases	-	To be predicted
+MESH:D005885	Gingival Hyperplasia	-	To be predicted
+MESH:D008260	Macroglossia	-	To be predicted
+MESH:D011000	Pleurodynia, Epidemic	-	To be predicted
+MESH:D013684	Telangiectasis	-	To be predicted
+MESH:D001238	Asphyxia Neonatorum	-	To be predicted
+MESH:D058625	End Stage Liver Disease	-	To be predicted
+MESH:D011832	Radiation Injuries	-	To be predicted
+MESH:D000380	Agranulocytosis	-	To be predicted
+MESH:D014103	Torticollis	-	To be predicted
+MESH:D054058	Acute Coronary Syndrome	-	To be predicted
+MESH:D000744	Anemia, Hemolytic, Autoimmune	-	To be predicted
+MESH:D006463	Hemolytic-Uremic Syndrome	-	To be predicted
+MESH:D003963	Diaper Rash	-	To be predicted
+MESH:D004438	Ecchymosis	-	To be predicted
+MESH:D007431	Intraoperative Complications	-	To be predicted
+MESH:D020347	Lithiasis	-	To be predicted
+MESH:D012793	Sialadenitis	-	To be predicted
+MESH:D012859	Sjogren's Syndrome	-	To be predicted
+MESH:D017542	Aneurysm, Ruptured	-	To be predicted
+MESH:D056988	Anterior Wall Myocardial Infarction	-	To be predicted
+MESH:D017545	Aortic Aneurysm, Thoracic	-	To be predicted
+MESH:D000784	Aortic Dissection	-	To be predicted
+MESH:D001167	Arteritis	-	To be predicted
+MESH:D001832	Body Temperature Changes	-	To be predicted
+MESH:D001925	Brain Damage, Chronic	-	To be predicted
+MESH:D002012	Bruxism	-	To be predicted
+MESH:D006502	Budd-Chiari Syndrome	-	To be predicted
+MESH:D002340	Carotid Artery Diseases	['2150']	Mapped
+MESH:C535485	Chromosome 13q trisomy	-	To be predicted
+MESH:D017091	Colitis, Ischemic	-	To be predicted
+MESH:D003323	Coronary Aneurysm	-	To be predicted
+MESH:D019263	Dysthymic Disorder	-	To be predicted
+MESH:D046649	Hematoma, Subdural, Spinal	-	To be predicted
+MESH:D015658	HIV Infections	-	To be predicted
+MESH:D020244	Infarction, Middle Cerebral Artery	['1875']	Mapped
+MESH:D002532	Intracranial Aneurysm	['192', '2150']	Mapped
+MESH:D002542	Intracranial Embolism and Thrombosis	-	To be predicted
+MESH:D009290	Narcolepsy	-	To be predicted
+MESH:D019150	Neuroaxonal Dystrophies	-	To be predicted
+MESH:D012652	Self Mutilation	-	To be predicted
+MESH:D054549	Takotsubo Cardiomyopathy	-	To be predicted
+MESH:D020293	Vasculitis, Central Nervous System	-	To be predicted
+MESH:D018883	Heat Stroke	-	To be predicted
+MESH:D056647	Systemic Vasculitis	-	To be predicted
+MESH:D000405	Akinetic Mutism	-	To be predicted
+MESH:D018437	Brown-Sequard Syndrome	-	To be predicted
+MESH:D005242	Fecal Incontinence	-	To be predicted
+MESH:D006955	Hypernatremia	-	To be predicted
+MESH:D020335	Paraparesis	-	To be predicted
+MESH:D013118	Spinal Cord Diseases	-	To be predicted
+MESH:D014262	Tricuspid Valve Insufficiency	-	To be predicted
+MESH:D007232	Infant, Newborn, Diseases	-	To be predicted
+MESH:D001437	Bacteriuria	-	To be predicted
+MESH:D001922	Brain Abscess	-	To be predicted
+MESH:D007105	Immune Complex Diseases	-	To be predicted
+MESH:D017285	Polymyositis	-	To be predicted
+MESH:D012010	Red-Cell Aplasia, Pure	-	To be predicted
+MESH:D014188	Transposition of Great Vessels	-	To be predicted
+MESH:D009378	Neoplasms, Multiple Primary	-	To be predicted
+MESH:D003286	Contracture	-	To be predicted
+MESH:D005315	Fetal Diseases	-	To be predicted
+MESH:D001157	Arterial Occlusive Diseases	-	To be predicted
+MESH:D016769	Embolism and Thrombosis	-	To be predicted
+MESH:D005922	Glomerulonephritis, IGA	-	To be predicted
+MESH:D007383	Intermittent Claudication	-	To be predicted
+MESH:D011776	Pyuria	-	To be predicted
+MESH:D020182	Sleep Apnea, Central	-	To be predicted
+MESH:D002349	Carpal Tunnel Syndrome	-	To be predicted
+MESH:D016638	Critical Illness	-	To be predicted
+MESH:D006177	Gynecomastia	-	To be predicted
+MESH:D017588	Hyperandrogenism	-	To be predicted
+MESH:D051642	Histiocytoma	-	To be predicted
+MESH:C538173	Acquired angioedema	-	To be predicted
+MESH:D000370	Ageusia	-	To be predicted
+MESH:D005926	Glossalgia	-	To be predicted
+MESH:D007752	Obstetric Labor, Premature	-	To be predicted
+MESH:D016104	Oligohydramnios	-	To be predicted
+MESH:D010409	Penile Diseases	-	To be predicted
+MESH:D012078	Renal Artery Obstruction	-	To be predicted
+MESH:D012127	Respiratory Distress Syndrome, Newborn	-	To be predicted
+MESH:D014060	Tongue Diseases	-	To be predicted
+MESH:D024801	Tauopathies	-	To be predicted
+MESH:D008548	Melanosis	-	To be predicted
+MESH:D015434	Panniculitis	-	To be predicted
+MESH:D009443	Neuritis	-	To be predicted
+MESH:D000160	Vestibulocochlear Nerve Diseases	-	To be predicted
+MESH:D046748	Hematoma, Epidural, Spinal	-	To be predicted
+MESH:D020423	Median Neuropathy	-	To be predicted
+MESH:D000071056	Anorectal Malformations	-	To be predicted
+MESH:D002062	Bursitis	-	To be predicted
+MESH:D002971	Cleft Lip	-	To be predicted
+MESH:D004387	Dupuytren Contracture	-	To be predicted
+MESH:D020138	Hyperhomocysteinemia	['1661']	Mapped
+MESH:D006962	Hyperparathyroidism, Secondary	['2145']	Mapped
+MESH:D017380	Hypertrophy, Right Ventricular	-	To be predicted
+MESH:D007415	Intestinal Obstruction	-	To be predicted
+MESH:D014314	Trisomy	-	To be predicted
+MESH:D014890	Granulomatosis with Polyangiitis	-	To be predicted
+MESH:D000092542	Dust Mite Allergy	-	To be predicted
+MESH:D011657	Pulmonary Eosinophilia	['1250']	Mapped
+MESH:D001327	Autoimmune Diseases	-	To be predicted
+MESH:D021183	Peanut Hypersensitivity	-	To be predicted
+MESH:D045169	Severe Acute Respiratory Syndrome	-	To be predicted
+MESH:D019588	Aging, Premature	-	To be predicted
+MESH:D020863	Central Nervous System Cysts	-	To be predicted
+MESH:D002547	Cerebral Palsy	-	To be predicted
+MESH:D002613	Cheilitis	-	To be predicted
+MESH:D046088	Hearing Loss, Unilateral	-	To be predicted
+MESH:D006562	Herpes Zoster	-	To be predicted
+MESH:D039682	HIV-Associated Lipodystrophy Syndrome	-	To be predicted
+MESH:D008060	Lipodystrophy	-	To be predicted
+MESH:D038061	Lower Extremity Deformities, Congenital	-	To be predicted
+MESH:D028361	Mitochondrial Diseases	-	To be predicted
+MESH:D017246	Ophthalmoplegia, Chronic Progressive External	-	To be predicted
+MESH:D011666	Pulmonary Valve Stenosis	-	To be predicted
+MESH:D003161	Compartment Syndromes	-	To be predicted
+MESH:D004381	Duodenal Ulcer	-	To be predicted
+MESH:D010438	Peptic Ulcer Hemorrhage	-	To be predicted
+MESH:D012713	Serum Sickness	-	To be predicted
+MESH:D002313	Cardiomyopathy, Restrictive	-	To be predicted
+MESH:D012607	Scotoma	-	To be predicted
+MESH:D064129	Prostatic Neoplasms, Castration-Resistant	['885']	Mapped
+MESH:D014899	Wernicke Encephalopathy	-	To be predicted
+MESH:D000080424	Cytokine Release Syndrome	-	To be predicted
+MESH:D001528	Behcet Syndrome	-	To be predicted
+MESH:D008305	Malignant Hyperthermia	-	To be predicted
+MESH:D008538	Meige Syndrome	-	To be predicted
+MESH:D009839	Oligomenorrhea	-	To be predicted
+MESH:D020314	Central Nervous System Fungal Infections	-	To be predicted
+MESH:D001168	Arthritis	-	To be predicted
+MESH:D010309	Parotitis	-	To be predicted
+MESH:D012019	Reflex Sympathetic Dystrophy	-	To be predicted
+MESH:D000748	Anemia, Macrocytic	-	To be predicted
+MESH:D003731	Dental Caries	-	To be predicted
+MESH:D020234	Gait Ataxia	-	To be predicted
+MESH:D010842	Pica	-	To be predicted
+MESH:D004774	Entropion	-	To be predicted
+MESH:D006732	Horner Syndrome	-	To be predicted
+MESH:D063647	Fetal Alcohol Spectrum Disorders	-	To be predicted
+MESH:D009914	Oral Submucous Fibrosis	-	To be predicted
+MESH:D016063	Blood Loss, Surgical	-	To be predicted
+MESH:D005734	Gangrene	-	To be predicted
+MESH:D019106	Postoperative Hemorrhage	-	To be predicted
+MESH:D005715	Gambling	-	To be predicted
+MESH:D009400	Nephrosclerosis	-	To be predicted
+MESH:D019584	Hot Flashes	-	To be predicted
+MESH:D018246	Adrenocortical Adenoma	-	To be predicted
+MESH:D002280	Basal Cell Carcinoma	['885', '1067', '1971']	Mapped
+MESH:D001913	Bowen's Disease	['885', '1971']	Mapped
+MESH:C538445	Clear-cell metastatic renal cell carcinoma	-	To be predicted
+MESH:D003327	Coronary Disease	['317', '1532']	Mapped
+MESH:D003968	Diarrhea, Infantile	-	To be predicted
+MESH:D052776	Female Urogenital Diseases	-	To be predicted
+MESH:D005534	Foot Diseases	-	To be predicted
+MESH:D000098647	Generalized Anxiety Disorder	-	To be predicted
+MESH:D000091662	Genital Diseases	-	To be predicted
+MESH:D054143	Heart Failure, Systolic	-	To be predicted
+MESH:D017488	Hyperkeratosis, Epidermolytic	-	To be predicted
+MESH:D046110	Hypertension, Pregnancy-Induced	['952', '1343']	Mapped
+MESH:D007239	Infections	-	To be predicted
+MESH:D008546	Melanoma, Experimental	['885', '1971']	Mapped
+MESH:D020078	Neurogenic Inflammation	['188', '2150']	Mapped
+MESH:C566121	Orofacial Cleft 1	-	To be predicted
+MESH:D055752	Small Cell Lung Carcinoma	['885', '1556', '1670']	Mapped
+MESH:D013952	Thymus Hyperplasia	-	To be predicted
+MESH:D014591	Uterine Diseases	-	To be predicted
+MESH:D003681	Dehydration	-	To be predicted
+MESH:D015451	Leukemia, Lymphocytic, Chronic, B-Cell	-	To be predicted
+MESH:C563614	Long Qt Syndrome 2	-	To be predicted
+MESH:D050033	Thyroid Dysgenesis	-	To be predicted
+MESH:D000306	Adrenal Cortex Neoplasms	-	To be predicted
+MESH:D019446	Endotoxemia	-	To be predicted
+MESH:D017240	Mitochondrial Myopathies	-	To be predicted
+MESH:D020211	Autonomic Dysreflexia	-	To be predicted
+MESH:D001195	Asbestosis	['1495']	Mapped
+MESH:D001996	Bronchopneumonia	-	To be predicted
+MESH:D002283	Carcinoma, Bronchogenic	-	To be predicted
+MESH:D002289	Carcinoma, Non-Small-Cell Lung	['885', '1971']	Mapped
+MESH:D002873	Chromosome Fragility	-	To be predicted
+MESH:D010698	Phobic Disorders	-	To be predicted
+MESH:D010995	Pleural Diseases	-	To be predicted
+MESH:D010997	Pleural Neoplasms	-	To be predicted
+MESH:D012004	Rectal Neoplasms	-	To be predicted
+MESH:D013001	Somatoform Disorders	-	To be predicted
+MESH:D013899	Thoracic Neoplasms	-	To be predicted
+MESH:D005549	Foreign-Body Reaction	-	To be predicted
+MESH:D014136	Tracheitis	-	To be predicted
+MESH:D000008	Abdominal Neoplasms	-	To be predicted
+MESH:D015769	Granuloma, Respiratory Tract	-	To be predicted
+MESH:C538011	Eales disease	-	To be predicted
+MESH:D006959	Hyperoxaluria	-	To be predicted
+MESH:D004893	Erythema Nodosum	-	To be predicted
+MESH:D000137	Acid-Base Imbalance	-	To be predicted
+MESH:D000472	Alkalosis, Respiratory	-	To be predicted
+MESH:D018798	Anemia, Iron-Deficiency	['1132']	Mapped
+MESH:D000788	Angina Pectoris, Variant	-	To be predicted
+MESH:D015875	Anisocoria	-	To be predicted
+MESH:D000868	Anterior Compartment Syndrome	-	To be predicted
+MESH:D001017	Aortic Coarctation	-	To be predicted
+MESH:D001024	Aortic Valve Stenosis	-	To be predicted
+MESH:D055963	Asthma, Aspirin-Induced	-	To be predicted
+MESH:C565935	Asthma, Nasal Polyps, And Aspirin Intolerance	-	To be predicted
+MESH:D001791	Blood Platelet Disorders	-	To be predicted
+MESH:C537996	Dysgnathia complex	-	To be predicted
+MESH:D053159	Dysuria	-	To be predicted
+MESH:D004935	Esophageal Diseases	-	To be predicted
+MESH:C536392	Factor 8 deficiency, acquired	-	To be predicted
+MESH:D005747	Gastric Fistula	-	To be predicted
+MESH:D006396	Hematemesis	-	To be predicted
+MESH:D006407	Hematoma, Epidural, Cranial	-	To be predicted
+MESH:D020200	Hematoma, Subdural, Chronic	-	To be predicted
+MESH:D006456	Hemoglobinuria	-	To be predicted
+MESH:D051516	Hemospermia	-	To be predicted
+MESH:D020141	Hemostatic Disorders	-	To be predicted
+MESH:D065630	Hernias, Diaphragmatic, Congenital	-	To be predicted
+MESH:D007020	Hypoprothrombinemias	-	To be predicted
+MESH:D020198	Intracranial Hemorrhage, Traumatic	-	To be predicted
+MESH:D007619	Kartagener Syndrome	-	To be predicted
+MESH:D008551	Melena	-	To be predicted
+MESH:D009916	Orbital Diseases	-	To be predicted
+MESH:D006473	Postpartum Hemorrhage	-	To be predicted
+MESH:C536421	Prinzmetal's variant angina	-	To be predicted
+MESH:D012852	Sinusitis	-	To be predicted
+MESH:D013683	Telangiectasia, Hereditary Hemorrhagic	-	To be predicted
+MESH:D014339	Truncus Arteriosus, Persistent	-	To be predicted
+MESH:D020338	Vestibular Neuronitis	-	To be predicted
+MESH:D014883	Water-Electrolyte Imbalance	-	To be predicted
+MESH:D021182	Wheat Hypersensitivity	-	To be predicted
+MESH:D002305	Cardiac Tamponade	-	To be predicted
+MESH:D042883	Choledocholithiasis	-	To be predicted
+MESH:D009402	Nephrosis, Lipoid	-	To be predicted
+MESH:D017515	Pityriasis Rosea	-	To be predicted
+MESH:D012770	Shock, Cardiogenic	-	To be predicted
+MESH:D020760	Spinal Cord Ischemia	-	To be predicted
+MESH:D018497	Ventricular Dysfunction, Right	-	To be predicted
+MESH:D002769	Cholelithiasis	-	To be predicted
+MESH:D049310	Distal Myopathies	-	To be predicted
+MESH:D019693	Hepatitis, Autoimmune	['1820']	Mapped
+MESH:D000303	Adrenal Cortex Diseases	-	To be predicted
+MESH:D004065	Digestive System Abnormalities	-	To be predicted
+MESH:D004714	Endometrial Hyperplasia	['142', '772', '854', '1069']	Mapped
+MESH:D006201	Hair Diseases	-	To be predicted
+MESH:D007021	Hypospadias	['1001']	Mapped
+MESH:D066088	Infant Death	['947']	Mapped
+MESH:D007889	Leiomyoma	['870', '1555']	Mapped
+MESH:D012466	Salivary Gland Diseases	-	To be predicted
+MESH:D013217	Starvation	-	To be predicted
+MESH:D020236	Amnesia, Transient Global	-	To be predicted
+MESH:D006342	Heart Rupture, Post-Infarction	-	To be predicted
+MESH:D020421	Vagus Nerve Diseases	-	To be predicted
+MESH:D003231	Conjunctivitis	-	To be predicted
+MESH:D007079	Ileitis	-	To be predicted
+MESH:D015428	Myocardial Reperfusion Injury	-	To be predicted
+MESH:D009401	Nephrosis	-	To be predicted
+MESH:D000038	Abscess	-	To be predicted
+MESH:D006963	Hyperphagia	-	To be predicted
+MESH:D000757	Anencephaly	-	To be predicted
+MESH:D007943	Leukemia, Hairy Cell	-	To be predicted
+MESH:D012983	Soft Tissue Neoplasms	-	To be predicted
+MESH:D000193	Actinomycetales Infections	-	To be predicted
+MESH:D000231	Adenocarcinoma, Papillary	-	To be predicted
+MESH:D000753	Anemia, Refractory	-	To be predicted
+MESH:D001650	Bile Duct Neoplasms	-	To be predicted
+MESH:D019046	Bone Marrow Neoplasms	-	To be predicted
+MESH:C538045	Chromosome 17 deletion	-	To be predicted
+MESH:C535323	Chromosome 5q Deletion Syndrome	-	To be predicted
+MESH:C537814	Chromosome 7, monosomy	-	To be predicted
+MESH:D017726	Cytomegalovirus Retinitis	-	To be predicted
+MESH:D015140	Dementia, Vascular	-	To be predicted
+MESH:D004198	Disease Susceptibility	-	To be predicted
+MESH:D030342	Genetic Diseases, Inborn	-	To be predicted
+MESH:D056829	Hereditary Angioedema Types I and II	-	To be predicted
+MESH:D018285	Klatskin Tumor	-	To be predicted
+MESH:D008230	Lymphomatoid Granulomatosis	-	To be predicted
+MESH:D008286	Malabsorption Syndromes	-	To be predicted
+MESH:D016919	Meningitis, Cryptococcal	-	To be predicted
+MESH:D055953	Microscopic Polyangiitis	-	To be predicted
+MESH:D016609	Neoplasms, Second Primary	-	To be predicted
+MESH:D012166	Retinal Hemorrhage	-	To be predicted
+MESH:D012598	Sclerosis	-	To be predicted
+MESH:D013922	Thrombocytosis	-	To be predicted
+MESH:D000072281	Lymphadenopathy	-	To be predicted
+MESH:D016470	Bacteremia	-	To be predicted
+MESH:D058447	Eye Pain	-	To be predicted
+MESH:D007592	Joint Diseases	-	To be predicted
+MESH:D011008	Pneumococcal Infections	-	To be predicted
+MESH:D011539	Pruritus Vulvae	-	To be predicted
+MESH:D004828	Epilepsies, Partial	-	To be predicted
+MESH:D000083023	Colitis-Associated Neoplasms	-	To be predicted
+MESH:D020329	Essential Tremor	['2150']	Mapped
+MESH:D002534	Hypoxia, Brain	['192', '2075', '2150']	Mapped
+MESH:D016481	Helicobacter Infections	['1385']	Mapped
+MESH:D005494	Folic Acid Deficiency	-	To be predicted
+MESH:D016905	Gram-Negative Bacterial Infections	-	To be predicted
+MESH:D017119	Porphyria Cutanea Tarda	-	To be predicted
+MESH:D013553	Swine Diseases	-	To be predicted
+MESH:D003882	Dermatomyositis	-	To be predicted
+MESH:D012772	Shock, Septic	-	To be predicted
+MESH:D018488	Bone Demineralization, Pathologic	-	To be predicted
+MESH:D002180	Candidiasis, Oral	-	To be predicted
+MESH:D006073	Gout	-	To be predicted
+MESH:D001022	Aortic Valve Insufficiency	-	To be predicted
+MESH:D008944	Mitral Valve Insufficiency	-	To be predicted
+MESH:D000550	Amblyopia	-	To be predicted
+MESH:D007634	Keratitis	-	To be predicted
+MESH:D009155	Mutism	-	To be predicted
+MESH:D000051	Acantholysis	-	To be predicted
+MESH:D003318	Corneal Opacity	-	To be predicted
+MESH:D017695	Soft Tissue Injuries	-	To be predicted
+MESH:D006106	Granulosa Cell Tumor	-	To be predicted
+MESH:D006689	Hodgkin Disease	-	To be predicted
+MESH:D015464	Leukemia, Myelogenous, Chronic, BCR-ABL Positive	-	To be predicted
+MESH:D007960	Leukocyte Disorders	-	To be predicted
+MESH:D008088	Listeriosis	-	To be predicted
+MESH:D009006	Monosomy	-	To be predicted
+MESH:D055728	Primary Myelofibrosis	-	To be predicted
+MESH:D013953	Thymus Neoplasms	['885']	Mapped
+MESH:D002578	Uterine Cervical Dysplasia	-	To be predicted
+MESH:D001005	Anus Neoplasms	-	To be predicted
+MESH:D017544	Aortic Aneurysm, Abdominal	-	To be predicted
+MESH:D000077216	Carcinoma, Ovarian Epithelial	-	To be predicted
+MESH:D019283	Pancreatitis, Acute Necrotizing	-	To be predicted
+MESH:D010610	Pharyngeal Neoplasms	-	To be predicted
+MESH:D000080874	Synucleinopathies	['191', '2150']	Mapped
+MESH:D020324	Amnesia, Anterograde	-	To be predicted
+MESH:D001764	Blepharospasm	-	To be predicted
+MESH:D008591	Meningomyelocele	-	To be predicted
+MESH:D015154	Esophageal Motility Disorders	-	To be predicted
+MESH:D004948	Esotropia	-	To be predicted
+MESH:D013478	Superior Mesenteric Artery Syndrome	-	To be predicted
+MESH:D001037	Aphasia	-	To be predicted
+MESH:D006429	Hemiplegia	-	To be predicted
+MESH:D007418	Intestinal Pseudo-Obstruction	-	To be predicted
+MESH:D001607	Berylliosis	-	To be predicted
+MESH:D006986	Hypervitaminosis A	-	To be predicted
+MESH:D013036	Spasms, Infantile	-	To be predicted
+MESH:D000309	Adrenal Insufficiency	-	To be predicted
+MESH:C564016	Nephropathy, Chronic Tubulointerstitial	-	To be predicted
+MESH:D021081	Chronobiology Disorders	-	To be predicted
+MESH:D005393	Fish Diseases	-	To be predicted
+MESH:D007569	Jaw Abnormalities	['2050']	Mapped
+MESH:D008141	Lordosis	-	To be predicted
+OMIM:105500	AMYOTROPHIC LATERAL SCLEROSIS-PARKINSONISM/DEMENTIA COMPLEX 1	-	To be predicted
+MESH:D065306	Corneal Injuries	-	To be predicted
+MESH:D016883	Diabetic Ketoacidosis	-	To be predicted
+MESH:D012817	Signs and Symptoms, Digestive	-	To be predicted
+MESH:D000648	Amnesia, Retrograde	-	To be predicted
+MESH:D020336	Paraparesis, Spastic	-	To be predicted
+MESH:D001471	Barrett Esophagus	-	To be predicted
+MESH:D001651	Cholestasis, Extrahepatic	-	To be predicted
+MESH:D003137	Common Bile Duct Diseases	-	To be predicted
+MESH:D004942	Esophagitis, Peptic	-	To be predicted
+MESH:D007567	Jaundice, Neonatal	-	To be predicted
+MESH:D007647	Kernicterus	-	To be predicted
+MESH:D033461	Hyperuricemia	['1096']	Mapped
+MESH:C565791	Acne, Adult	-	To be predicted
+MESH:C536875	Arrest of spermatogenesis	-	To be predicted
+MESH:D019958	Attention Deficit and Disruptive Behavior Disorders	-	To be predicted
+MESH:D001424	Bacterial Infections	-	To be predicted
+MESH:C537968	Camptocormia	-	To be predicted
+MESH:D016893	Carotid Stenosis	-	To be predicted
+MESH:D003537	Cystadenoma	-	To be predicted
+MESH:D003560	Cysts	-	To be predicted
+MESH:D003744	Dental Enamel Hypoplasia	-	To be predicted
+MESH:D003925	Diabetic Angiopathies	-	To be predicted
+MESH:D003929	Diabetic Neuropathies	['192', '2150']	Mapped
+MESH:D004678	Encephalomalacia	-	To be predicted
+MESH:D009050	Fluorosis, Dental	-	To be predicted
+MESH:D000078064	Gestational Weight Gain	-	To be predicted
+MESH:D006058	Gonadal Disorders	-	To be predicted
+MESH:D007006	Hypogonadism	-	To be predicted
+MESH:D058922	Inflammatory Breast Neoplasms	['885', '1193', '1982']	Mapped
+MESH:D007579	Jejunal Diseases	-	To be predicted
+OMIM:614160	MUSCLE HYPERTROPHY	-	To be predicted
+MESH:D020966	Muscular Disorders, Atrophic	-	To be predicted
+MESH:D009214	Myoma	-	To be predicted
+MESH:D010048	Ovarian Cysts	-	To be predicted
+MESH:D010900	Pituitary Diseases	-	To be predicted
+MESH:D010927	Placental Insufficiency	-	To be predicted
+MESH:D011236	Prediabetic State	-	To be predicted
+MESH:D012816	Signs and Symptoms	-	To be predicted
+MESH:D014525	Urethral Stricture	-	To be predicted
+MESH:C562565	Uterine Anomalies	-	To be predicted
+MESH:D066253	Vascular Remodeling	['2069']	Mapped
+MESH:D008310	Malocclusion	-	To be predicted
+MESH:D062788	Adenomyosis	-	To be predicted
+MESH:D006314	Hearing Loss, Conductive	-	To be predicted
+MESH:D006978	Hypertension, Renovascular	-	To be predicted
+MESH:D054990	Idiopathic Pulmonary Fibrosis	-	To be predicted
+MESH:D011697	Purpura, Thrombotic Thrombocytopenic	-	To be predicted
+MESH:D012829	Silicosis	['445', '1250']	Mapped
+MESH:D020925	Hypoxia-Ischemia, Brain	-	To be predicted
+MESH:D065666	Mesenteric Ischemia	-	To be predicted
+MESH:D001750	Urinary Bladder, Neurogenic	-	To be predicted
+MESH:D019115	Fasciitis, Necrotizing	-	To be predicted
+MESH:D012678	Sensation Disorders	-	To be predicted
+MESH:D001906	Botulism	-	To be predicted
+MESH:D005099	Exotropia	-	To be predicted
+MESH:D002341	Carotid Artery Thrombosis	-	To be predicted
+MESH:D002539	Cerebral Arterial Diseases	-	To be predicted
+MESH:D002558	Cerebrospinal Fluid Otorrhea	-	To be predicted
+MESH:D002559	Cerebrospinal Fluid Rhinorrhea	-	To be predicted
+MESH:D004652	Empty Sella Syndrome	-	To be predicted
+MESH:D004916	Erythromelalgia	-	To be predicted
+MESH:D006547	Hernia	-	To be predicted
+MESH:D010494	Pericarditis, Constrictive	-	To be predicted
+MESH:D010899	Pituitary Apoplexy	-	To be predicted
+MESH:D010998	Pleurisy	-	To be predicted
+MESH:D011007	Pneumocephalus	-	To be predicted
+MESH:D011644	Puerperal Disorders	-	To be predicted
+MESH:D012170	Retinal Vein Occlusion	-	To be predicted
+MESH:D012594	Scleroderma, Localized	-	To be predicted
+MESH:D019462	Syncope, Vasovagal	-	To be predicted
+MESH:D014277	Trigeminal Neuralgia	-	To be predicted
+MESH:C564424	Genitourinary Tract Anomalies	-	To be predicted
+MESH:D006255	Rhinitis, Allergic, Seasonal	-	To be predicted
+MESH:D014515	Ureteral Diseases	-	To be predicted
+MESH:C580439	Short Qt Syndrome	-	To be predicted
+MESH:D012909	Snake Bites	-	To be predicted
+MESH:D013285	Strabismus	-	To be predicted
+MESH:D020516	Brachial Plexus Neuropathies	-	To be predicted
+MESH:D008580	Meningism	-	To be predicted
+MESH:D000081030	Myotoxicity	-	To be predicted
+MESH:D009471	Neuromyelitis Optica	-	To be predicted
+MESH:D011128	Polyradiculopathy	-	To be predicted
+MESH:D012892	Sleep Deprivation	-	To be predicted
+MESH:D020433	Trigeminal Nerve Diseases	-	To be predicted
+MESH:D001237	Asphyxia	-	To be predicted
+MESH:D009357	Neonatal Abstinence Syndrome	-	To be predicted
+MESH:D016103	Spinal Fractures	-	To be predicted
+MESH:D020821	Dystonic Disorders	-	To be predicted
+MESH:D006945	Hyperhidrosis	-	To be predicted
+MESH:D018856	Cystitis, Interstitial	-	To be predicted
+MESH:D020518	Focal Nodular Hyperplasia	-	To be predicted
+MESH:D006474	Hemorrhagic Disorders	-	To be predicted
+MESH:D014178	Translocation, Genetic	-	To be predicted
+MESH:D001100	Arachnoiditis	-	To be predicted
+MESH:D008630	Mercury Poisoning	-	To be predicted
+MESH:D003440	Croup	-	To be predicted
+MESH:D014820	Vitiligo	-	To be predicted
+MESH:D021441	Carcinoma, Pancreatic Ductal	-	To be predicted
+MESH:D002105	Cadmium Poisoning	-	To be predicted
+MESH:D015352	Dry Eye Syndromes	-	To be predicted
+MESH:D020260	Heavy Metal Poisoning, Nervous System	-	To be predicted
+MESH:D046449	Hernia, Abdominal	-	To be predicted
+MESH:D006554	Hernia, Umbilical	-	To be predicted
+MESH:D020431	Olfactory Nerve Diseases	-	To be predicted
+MESH:C535836	Pancreatic cancer, adult	['885']	Mapped
+MESH:D010305	Parotid Diseases	-	To be predicted
+MESH:D010510	Periodontal Diseases	-	To be predicted
+MESH:D001261	Pulmonary Atelectasis	-	To be predicted
+MESH:D000016	Abnormalities, Radiation-Induced	-	To be predicted
+MESH:C574275	Ectrodactyly	-	To be predicted
+MESH:D009920	Orchitis	-	To be predicted
+MESH:D005348	Fibrocystic Breast Disease	-	To be predicted
+MESH:D006620	Hip Fractures	-	To be predicted
+MESH:D006941	Hyperesthesia	-	To be predicted
+MESH:D006977	Hypertension, Renal	['952', '1343']	Mapped
+MESH:D020343	Hypertensive Encephalopathy	-	To be predicted
+MESH:D010003	Osteoarthritis	['2089']	Mapped
+MESH:D010488	Polyarteritis Nodosa	-	To be predicted
+MESH:D012148	Restless Legs Syndrome	['2150']	Mapped
+MESH:D013614	Tachycardia, Paroxysmal	-	To be predicted
+MESH:C572845	Thyroid cancer, follicular	-	To be predicted
+MESH:D004881	Ergotism	-	To be predicted
+MESH:D007409	Intestinal Atresia	-	To be predicted
+MESH:D013576	Syndactyly	-	To be predicted
+MESH:D000082882	Bicuspid Aortic Valve Disease	-	To be predicted
+MESH:D010279	Parathyroid Diseases	-	To be predicted
+MESH:C536797	Chromosome 22, microdeletion 22 q11	-	To be predicted
+MESH:D008288	Malaria	-	To be predicted
+MESH:D020262	Mercury Poisoning, Nervous System	-	To be predicted
+MESH:D012608	Scrapie	['192', '2150']	Mapped
+MESH:D002137	Calculi	-	To be predicted
+MESH:D019214	Gingival Overgrowth	-	To be predicted
+MESH:D011475	Prosthesis Failure	-	To be predicted
+MESH:D000070625	Brain Injuries, Diffuse	-	To be predicted
+MESH:D015576	Hyperostosis	-	To be predicted
+MESH:D010673	Pheochromocytoma	-	To be predicted
+MESH:D002054	Burning Mouth Syndrome	-	To be predicted
+MESH:D009187	Myelitis	-	To be predicted
+MESH:D017086	beta-Thalassemia	-	To be predicted
+MESH:D005533	Foot Dermatoses	-	To be predicted
+MESH:D018409	Foot Injuries	-	To be predicted
+MESH:D060831	Hand-Foot Syndrome	-	To be predicted
+MESH:D006230	Hand Injuries	-	To be predicted
+MESH:D055623	Keratosis, Actinic	-	To be predicted
+MESH:D010304	Paronychia	-	To be predicted
+MESH:D055948	Sarcopenia	-	To be predicted
+MESH:C537153	Hypomagnesemia primary	-	To be predicted
+MESH:D001982	Bronchial Diseases	-	To be predicted
+MESH:D003320	Corneal Ulcer	-	To be predicted
+MESH:D004833	Epilepsy, Temporal Lobe	-	To be predicted
+MESH:D005157	Facial Pain	-	To be predicted
+MESH:D007819	Laryngeal Edema	-	To be predicted
+MESH:D008413	Mastitis	-	To be predicted
+MESH:D015508	Nasal Obstruction	-	To be predicted
+MESH:C564945	Neuropathy, Painful	-	To be predicted
+MESH:D053591	Referred Pain	-	To be predicted
+MESH:D013705	Temporomandibular Joint Disorders	-	To be predicted
+MESH:D014605	Uveitis	-	To be predicted
+MESH:D019043	Vascular Neoplasms	-	To be predicted
+MESH:D002385	Cataplexy	-	To be predicted
+MESH:D056150	Acute Generalized Exanthematous Pustulosis	-	To be predicted
+MESH:D001072	Apraxias	-	To be predicted
+MESH:D001184	Articulation Disorders	-	To be predicted
+MESH:D001308	Auditory Perceptual Disorders	-	To be predicted
+MESH:D005117	Cardiac Complexes, Premature	-	To be predicted
+MESH:D003240	Connective Tissue Diseases	-	To be predicted
+MESH:D063926	Drug Hypersensitivity Syndrome	-	To be predicted
+MESH:D006972	Hypertelorism	-	To be predicted
+MESH:D002538	Intracranial Arteriovenous Malformations	-	To be predicted
+MESH:D007806	Language Disorders	-	To be predicted
+MESH:D007955	Leukemoid Reaction	-	To be predicted
+MESH:D008844	Micrognathism	-	To be predicted
+MESH:D009056	Mouth Abnormalities	-	To be predicted
+MESH:D021782	Multicystic Dysplastic Kidney	-	To be predicted
+MESH:D010267	Parapsoriasis	-	To be predicted
+MESH:D019310	Pseudolymphoma	-	To be predicted
+MESH:D011696	Purpura, Thrombocytopenic	-	To be predicted
+MESH:D012216	Rheumatic Diseases	-	To be predicted
+MESH:D000267	Tissue Adhesions	-	To be predicted
+MESH:D014869	Water Intoxication	-	To be predicted
+MESH:D009396	Wilms Tumor	['885', '1971']	Mapped
+MESH:D018457	Placenta, Retained	-	To be predicted
+MESH:D001264	Athetosis	-	To be predicted
+MESH:D010262	Paraphilic Disorders	-	To be predicted
+MESH:C538250	Amyopathic dermatomyositis	-	To be predicted
+MESH:D019867	Anti-Glomerular Basement Membrane Disease	-	To be predicted
+MESH:D002754	Choanal Atresia	-	To be predicted
+MESH:D005067	Euthyroid Sick Syndromes	-	To be predicted
+MESH:D008998	Monoclonal Gammopathy of Undetermined Significance	-	To be predicted
+MESH:D002249	Carbon Monoxide Poisoning	-	To be predicted
+MESH:C535464	Conotruncal cardiac defects	-	To be predicted
+MESH:D010033	Otitis Media	-	To be predicted
+MESH:D002252	Carbon Tetrachloride Poisoning	-	To be predicted
+MESH:D000075902	Clinical Deterioration	-	To be predicted
+MESH:C538268	Auditory neuropathy	-	To be predicted
+MESH:D004238	Diverticulitis	-	To be predicted
+MESH:D004940	Esophageal Stenosis	-	To be predicted
+MESH:D014597	Uterine Rupture	-	To be predicted
+MESH:D056889	Barth Syndrome	-	To be predicted
+MESH:D013203	Staphylococcal Infections	-	To be predicted
+MESH:D002494	Central Nervous System Infections	-	To be predicted
+MESH:D018302	Neoplasms, Neuroepithelial	-	To be predicted
+MESH:D011668	Pulmonary Veno-Occlusive Disease	-	To be predicted
+MESH:D015356	Retinal Artery Occlusion	-	To be predicted
+MESH:D031300	Retinal Vasculitis	-	To be predicted
+MESH:D012173	Retinitis	-	To be predicted
+MESH:D020955	Striatonigral Degeneration	-	To be predicted
+MESH:D005891	Gingivitis	-	To be predicted
+MESH:D009103	Multiple Sclerosis	-	To be predicted
+MESH:D007049	Iatrogenic Disease	-	To be predicted
+MESH:D017484	Dermatitis, Phototoxic	-	To be predicted
+MESH:D004927	Escherichia coli Infections	-	To be predicted
+MESH:D016585	Vaginosis, Bacterial	-	To be predicted
+MESH:D041761	Cholecystolithiasis	-	To be predicted
+MESH:D015163	Superinfection	-	To be predicted
+MESH:D020323	Tics	-	To be predicted
+MESH:C563387	Rhabdomyolysis, Cerivastatin-Induced	-	To be predicted
+MESH:D034321	Hyperamylasemia	-	To be predicted
+MESH:D050500	Pancreatitis, Chronic	-	To be predicted
+MESH:D011833	Radiation Injuries, Experimental	-	To be predicted
+MESH:D003112	Colonic Pseudo-Obstruction	-	To be predicted
+MESH:D016403	Lymphoma, Large B-Cell, Diffuse	-	To be predicted
+MESH:D014806	Vitamin B 12 Deficiency	-	To be predicted
+MESH:D008258	Waldenstrom Macroglobulinemia	-	To be predicted
+MESH:D006457	Hemoglobinuria, Paroxysmal	-	To be predicted
+MESH:D015479	Leukemia, Myelomonocytic, Acute	-	To be predicted
+MESH:D010019	Osteomyelitis	-	To be predicted
+MESH:D007718	Knee Injuries	-	To be predicted
+MESH:D010007	Osteochondritis	-	To be predicted
+MESH:D014075	Tooth Discoloration	-	To be predicted
+MESH:D005928	Glossitis	-	To be predicted
+MESH:D010518	Periodontitis	-	To be predicted
+MESH:D010612	Pharyngitis	-	To be predicted
+MESH:D005739	Gas Poisoning	-	To be predicted
+MESH:D010246	Paralysis, Obstetric	-	To be predicted
+MESH:D065632	Chikungunya Fever	-	To be predicted
+MESH:C563476	Inclusion Body Myopathy With Early-Onset Paget Disease And Frontotemporal Dementia	-	To be predicted
+MESH:D008269	Macular Edema	-	To be predicted
+MESH:D014522	Urethral Diseases	-	To be predicted
+MESH:C536522	Vacuolar myopathy	-	To be predicted
+MESH:D020257	Ventricular Remodeling	['2084']	Mapped
+MESH:D000308	Adrenocortical Hyperfunction	-	To be predicted
+MESH:D002481	Cellulitis	-	To be predicted
+MESH:D011015	Pneumonia, Aspiration	-	To be predicted
+MESH:D013342	Stuttering	-	To be predicted
+MESH:D003926	Diabetic Coma	-	To be predicted
+MESH:D004761	Enterocolitis, Pseudomembranous	-	To be predicted
+MESH:D059350	Chronic Pain	-	To be predicted
+MESH:D000073932	Food Addiction	-	To be predicted
+MESH:D012376	Rodent Diseases	-	To be predicted
+MESH:D012729	Sex Chromosome Aberrations	-	To be predicted
+MESH:D012891	Sleep Apnea Syndromes	-	To be predicted
+MESH:D006983	Hypertrichosis	-	To be predicted
+MESH:D015362	Child Nutrition Disorders	-	To be predicted
+MESH:D002806	Chondrodysplasia Punctata	-	To be predicted
+MESH:D006951	Hyperlipoproteinemias	-	To be predicted
+MESH:D015473	Leukemia, Promyelocytic, Acute	-	To be predicted
+MESH:D052556	Niemann-Pick Disease, Type C	-	To be predicted
+MESH:D011778	Q Fever	-	To be predicted
+MESH:D005776	Gaucher Disease	-	To be predicted
+MESH:D002006	Brucellosis	-	To be predicted
+MESH:C538646	High serum cholesterol, familial	-	To be predicted
+MESH:D006520	Hepatitis, Animal	-	To be predicted
+MESH:D003586	Cytomegalovirus Infections	-	To be predicted
+MESH:D007412	Intestinal Fistula	-	To be predicted
+MESH:D014424	Turner Syndrome	-	To be predicted
+MESH:C536357	Anemia, hypochromic microcytic	['1132']	Mapped
+MESH:D019189	Iron Metabolism Disorders	-	To be predicted
+MESH:D013568	Pathological Conditions, Signs and Symptoms	-	To be predicted
+MESH:D007826	Laryngismus	-	To be predicted
+MESH:D009750	Nutritional and Metabolic Diseases	-	To be predicted
+MESH:D015423	Scleritis	-	To be predicted
+MESH:D008178	Lupus Erythematosus, Cutaneous	-	To be predicted
+MESH:D002181	Candidiasis, Vulvovaginal	-	To be predicted
+MESH:D052256	Tendinopathy	-	To be predicted
+MESH:D013708	Tendon Injuries	-	To be predicted
+MESH:D004426	Ear Deformities, Acquired	-	To be predicted
+MESH:D044504	Enterocolitis, Neutropenic	-	To be predicted
+OMIM:613290	HEARING LOSS, CISPLATIN-INDUCED, SUSCEPTIBILITY TO	-	To be predicted
+MESH:D045823	Ileus	-	To be predicted
+MESH:D008275	Magnesium Deficiency	-	To be predicted
+MESH:D008480	Mediastinitis	-	To be predicted
+MESH:D000081015	Ototoxicity	-	To be predicted
+MESH:D011349	Proctitis	-	To be predicted
+MESH:D020151	Protein C Deficiency	-	To be predicted
+MESH:D053158	Nocturia	-	To be predicted
+MESH:D053206	Nocturnal Enuresis	-	To be predicted
+MESH:D020186	Sleep Bruxism	-	To be predicted
+MESH:D001602	Beriberi	-	To be predicted
+MESH:C536166	Keshan disease	-	To be predicted
+MESH:C536783	T-Lymphocytopenia	-	To be predicted
+MESH:D008586	Meningitis, Pneumococcal	-	To be predicted
+MESH:D013159	Splenic Infarction	-	To be predicted
+MESH:D018223	Dermatofibrosarcoma	-	To be predicted
+MESH:D000341	Affective Disorders, Psychotic	-	To be predicted
+MESH:D016471	Ovarian Hyperstimulation Syndrome	-	To be predicted
+MESH:D017699	Pelvic Pain	-	To be predicted
+MESH:D011271	Pregnancy, Ectopic	-	To be predicted
+MESH:D001044	Aphonia	-	To be predicted
+MESH:D000067836	Hoarding Disorder	-	To be predicted
+MESH:D007775	Lactation Disorders	-	To be predicted
+MESH:D001146	Arrhythmia, Sinus	-	To be predicted
+MESH:D020184	Night Terrors	-	To be predicted
+MESH:D007818	Laryngeal Diseases	-	To be predicted
+MESH:D008218	Lymphocytosis	-	To be predicted
+MESH:D056912	Binge-Eating Disorder	-	To be predicted
+MESH:D052018	Bulimia Nervosa	-	To be predicted
+MESH:D054059	Coronary Occlusion	-	To be predicted
+MESH:D020345	Enterocolitis, Necrotizing	['868', '1263', '1607']	Mapped
+MESH:D017029	Epilepsy, Complex Partial	-	To be predicted
+MESH:D004829	Epilepsy, Generalized	-	To be predicted
+MESH:D005244	Fecal Impaction	-	To be predicted
+MESH:D020385	Myokymia	-	To be predicted
+MESH:D010265	Paraproteinemias	-	To be predicted
+MESH:D014069	Tonsillitis	-	To be predicted
+MESH:D008232	Lymphoproliferative Disorders	-	To be predicted
+MESH:D020325	Migraine with Aura	-	To be predicted
+MESH:D001733	Bites and Stings	-	To be predicted
+MESH:C566627	Ceroid Lipofuscinosis, Neuronal, 6	-	To be predicted
+MESH:D008661	Metabolism, Inborn Errors	['2145']	Mapped
+MESH:D020215	Carotid Artery, Internal, Dissection	-	To be predicted
+MESH:D003384	Coxsackievirus Infections	-	To be predicted
+MESH:D000037	Abruptio Placentae	-	To be predicted
+MESH:D016170	Accelerated Idioventricular Rhythm	-	To be predicted
+MESH:D000379	Agoraphobia	-	To be predicted
+MESH:D015526	AIDS Dementia Complex	-	To be predicted
+MESH:D000789	Angina, Unstable	-	To be predicted
+MESH:D020759	Anterior Spinal Artery Syndrome	-	To be predicted
+MESH:D000987	Antisocial Personality Disorder	-	To be predicted
+MESH:D001019	Aortic Rupture	-	To be predicted
+MESH:C538260	Atresia of small intestine	-	To be predicted
+MESH:D020144	Basal Ganglia Cerebrovascular Disease	-	To be predicted
+MESH:D020145	Basal Ganglia Hemorrhage	-	To be predicted
+MESH:D003027	Cluster Headache	-	To be predicted
+MESH:D023921	Coronary Stenosis	-	To be predicted
+MESH:D003449	Cryoglobulinemia	-	To be predicted
+MESH:D004673	Encephalomyelitis, Acute Disseminated	-	To be predicted
+MESH:D004692	Endarteritis	-	To be predicted
+MESH:D005151	Facial Injuries	-	To be predicted
+MESH:D005352	Fibromuscular Dysplasia	-	To be predicted
+MESH:D005383	Finger Injuries	-	To be predicted
+MESH:D021501	Flank Pain	-	To be predicted
+MESH:D020139	Gastroschisis	-	To be predicted
+MESH:D005882	Gingival Diseases	-	To be predicted
+MESH:D005889	Gingival Recession	-	To be predicted
+MESH:D015745	Granuloma, Foreign-Body	-	To be predicted
+MESH:D006103	Granuloma, Lethal Midline	-	To be predicted
+MESH:D003639	Hearing Loss, Sudden	-	To be predicted
+MESH:D020199	Hematoma, Subdural, Acute	-	To be predicted
+MESH:D006465	Hemoperitoneum	-	To be predicted
+MESH:D006832	Hydranencephaly	-	To be predicted
+MESH:D006988	Hyphema	-	To be predicted
+MESH:D017543	Iliac Aneurysm	-	To be predicted
+MESH:D007235	Infant, Premature, Diseases	-	To be predicted
+MESH:D020762	Infarction, Posterior Cerebral Artery	-	To be predicted
+MESH:D020765	Intracranial Arterial Diseases	-	To be predicted
+MESH:D007443	Intussusception	-	To be predicted
+MESH:C536884	Kleeblattschaedel syndrome	-	To be predicted
+MESH:D007767	Lacrimal Duct Obstruction	-	To be predicted
+MESH:D007805	Language Development Disorders	-	To be predicted
+MESH:D014854	Lateral Medullary Syndrome	-	To be predicted
+MESH:D007968	Leukoencephalopathy, Progressive Multifocal	-	To be predicted
+MESH:D008047	Lip Diseases	-	To be predicted
+MESH:D017116	Low Back Pain	-	To be predicted
+MESH:D008471	Meconium Aspiration Syndrome	-	To be predicted
+MESH:D008478	Mediastinal Emphysema	-	To be predicted
+MESH:D008641	Mesenteric Vascular Occlusion	-	To be predicted
+MESH:D020331	Mobius Syndrome	-	To be predicted
+MESH:D020422	Mononeuropathies	-	To be predicted
+MESH:D009059	Mouth Diseases	-	To be predicted
+MESH:D009072	Moyamoya Disease	-	To be predicted
+MESH:D018218	Neoplasms, Fibrous Tissue	-	To be predicted
+MESH:D009667	Nose Deformities, Acquired	-	To be predicted
+MESH:D016155	Oral Fistula	-	To be predicted
+MESH:D054517	Orbital Cellulitis	-	To be predicted
+MESH:D010014	Osteolysis	-	To be predicted
+MESH:D010254	Paranasal Sinus Diseases	-	To be predicted
+MESH:D010921	Placenta Accreta	-	To be predicted
+MESH:D011026	Pneumopericardium	-	To be predicted
+MESH:D011030	Pneumothorax	-	To be predicted
+MESH:D011045	Poland Syndrome	-	To be predicted
+MESH:D011086	Polycythemia	-	To be predicted
+MESH:D011249	Pregnancy Complications, Cardiovascular	-	To be predicted
+MESH:D011250	Pregnancy Complications, Hematologic	-	To be predicted
+MESH:D005322	Premature Rupture of Fetal Membranes	-	To be predicted
+MESH:D011656	Pulmonary Emphysema	['2011']	Mapped
+MESH:D054060	Pulmonary Infarction	-	To be predicted
+MESH:D020146	Putaminal Hemorrhage	-	To be predicted
+MESH:D017511	Pyoderma Gangrenosum	-	To be predicted
+MESH:D019962	Reactive Attachment Disorder	-	To be predicted
+MESH:D016156	Respiratory Tract Fistula	-	To be predicted
+MESH:D012797	Sialometaplasia, Necrotizing	-	To be predicted
+MESH:D009057	Stomatognathic Diseases	-	To be predicted
+MESH:D013352	Subcutaneous Emphysema	-	To be predicted
+MESH:D013398	Sudden Infant Death	['947']	Mapped
+MESH:D013590	Syphilis, Congenital	-	To be predicted
+MESH:D013706	Temporomandibular Joint Dysfunction Syndrome	-	To be predicted
+MESH:D013919	Thromboangiitis Obliterans	-	To be predicted
+MESH:D019851	Thrombophilia	-	To be predicted
+MESH:D014077	Tooth Erosion	-	To be predicted
+MESH:D014256	Trichotillomania	-	To be predicted
+MESH:D038062	Upper Extremity Deformities, Congenital	-	To be predicted
+MESH:D014653	Vascular Headaches	-	To be predicted
+MESH:D014689	Venous Insufficiency	-	To be predicted
+MESH:D003085	Colic	-	To be predicted
+MESH:D004310	Double Outlet Right Ventricle	-	To be predicted
+MESH:D046628	Sphincter of Oddi Dysfunction	-	To be predicted
+MESH:D000686	Amyloidosis	-	To be predicted
+MESH:D001039	Aphasia, Broca	-	To be predicted
+MESH:D004314	Down Syndrome	-	To be predicted
+MESH:D004618	Embolism, Air	-	To be predicted
+MESH:D007039	Hypotrichosis	-	To be predicted
+MESH:D020967	Myotonic Disorders	-	To be predicted
+MESH:D001176	Arthrogryposis	-	To be predicted
+MESH:D012851	Sinus Thrombosis, Intracranial	-	To be predicted
+MESH:D013700	Giant Cell Arteritis	-	To be predicted
+MESH:D008796	Metrorrhagia	-	To be predicted
+MESH:D009440	Neurasthenia	-	To be predicted
+MESH:D056824	Upper Extremity Deep Vein Thrombosis	-	To be predicted
+MESH:D020016	Activated Protein C Resistance	-	To be predicted
+MESH:D006423	Hemianopsia	-	To be predicted
+MESH:D019522	Vaginal Discharge	-	To be predicted
+MESH:D018269	Carcinoma, Endometrioid	-	To be predicted
+MESH:D020227	Lateral Sinus Thrombosis	-	To be predicted
+MESH:D054989	Nephrogenic Fibrosing Dermopathy	-	To be predicted
+MESH:D034721	Mastocytosis, Systemic	-	To be predicted
+MESH:C566858	Copper-Overload Cirrhosis	-	To be predicted
+MESH:C565846	Copper Toxicosis, Idiopathic	-	To be predicted
+MESH:D007562	Creutzfeldt-Jakob Syndrome	['192', '2150']	Mapped
+MESH:D003554	Cystinosis	-	To be predicted
+MESH:D030401	Cytochrome-c Oxidase Deficiency	-	To be predicted
+MESH:D003677	Deficiency Diseases	-	To be predicted
+MESH:C563739	Erythrokeratodermia Variabilis 3	-	To be predicted
+MESH:D006527	Hepatolenticular Degeneration	['2034']	Mapped
+MESH:D016778	Malaria, Falciparum	-	To be predicted
+MESH:D007706	Menkes Kinky Hair Syndrome	-	To be predicted
+MESH:D061206	Neoplasm Micrometastasis	-	To be predicted
+MESH:C537860	Occipital horn syndrome	['191', '192']	Mapped
+MESH:D015422	Scleral Diseases	-	To be predicted
+MESH:D015614	Histiocytosis	-	To be predicted
+MESH:D005132	Eye Manifestations	-	To be predicted
+MESH:D014766	Viremia	-	To be predicted
+MESH:D017541	Aneurysm, False	-	To be predicted
+MESH:D001469	Barotrauma	-	To be predicted
+MESH:D002647	Chilblains	-	To be predicted
+MESH:D006679	HIV Seropositivity	-	To be predicted
+MESH:D020243	Infarction, Anterior Cerebral Artery	-	To be predicted
+MESH:D009264	Nails, Malformed	-	To be predicted
+MESH:D010439	Peptic Ulcer Perforation	-	To be predicted
+MESH:D011017	Pneumonia, Lipid	-	To be predicted
+MESH:D011027	Pneumoperitoneum	-	To be predicted
+MESH:D011127	Polyps	-	To be predicted
+MESH:C535598	Creatine deficiency, X-linked	-	To be predicted
+MESH:D015432	Glomerulonephritis, Membranoproliferative	-	To be predicted
+MESH:D013180	Sprains and Strains	-	To be predicted
+MESH:D020147	Coagulation Protein Disorders	-	To be predicted
+MESH:D059606	Polydipsia	-	To be predicted
+MESH:D057096	Shellfish Poisoning	-	To be predicted
+MESH:D005909	Glioblastoma	['885', '1971']	Mapped
+MESH:D005207	Fasciculation	-	To be predicted
+MESH:D000086722	Rhinorrhea	-	To be predicted
+MESH:D018255	Adenomatosis, Pulmonary	-	To be predicted
+MESH:D016569	Blepharophimosis	-	To be predicted
+MESH:D020226	Cavernous Sinus Thrombosis	-	To be predicted
+MESH:D000084202	Chemotherapy-Related Cognitive Impairment	-	To be predicted
+MESH:D003330	Coronary Vessel Anomalies	-	To be predicted
+MESH:D003398	Craniosynostoses	-	To be predicted
+MESH:C565730	Diabetes Mellitus, Congenital Autoimmune	-	To be predicted
+MESH:D004418	Dyspnea, Paroxysmal	-	To be predicted
+MESH:D005532	Foot Deformities, Congenital	-	To be predicted
+MESH:D054144	Heart Failure, Diastolic	-	To be predicted
+MESH:D006467	Hemophilia A	-	To be predicted
+MESH:D008100	Liver Abscess	-	To be predicted
+MESH:D017590	Myelinolysis, Central Pontine	-	To be predicted
+MESH:D011702	Pyelitis	-	To be predicted
+MESH:D012507	Sarcoidosis	-	To be predicted
+OMIM:102530	SPERMATOGENIC FAILURE 6	-	To be predicted
+MESH:D014123	Toxoplasmosis	-	To be predicted
+MESH:D014718	Vesico-Ureteral Reflux	-	To be predicted
+MESH:D000075224	Cardiac Conduction System Disease	-	To be predicted
+MESH:D005886	Gingival Hypertrophy	-	To be predicted
+MESH:D006086	Graft vs Host Disease	-	To be predicted
+MESH:D006526	Hepatitis C	-	To be predicted
+OMIM:146850	IMMUNE SUPPRESSION	-	To be predicted
+MESH:D010148	Intractable Pain	-	To be predicted
+MESH:D011529	Protozoan Infections, Animal	-	To be predicted
+MESH:D050497	Stillbirth	-	To be predicted
+MESH:C538248	Amyloid angiopathy	-	To be predicted
+MESH:D058225	Plaque, Amyloid	-	To be predicted
+MESH:D018256	Adenomatous Polyps	-	To be predicted
+MESH:D008579	Meningioma	['885', '1971']	Mapped
+MESH:D059327	Brachydactyly	-	To be predicted
+MESH:D010244	Bulbar Palsy, Progressive	-	To be predicted
+MESH:D002828	Choristoma	-	To be predicted
+MESH:D009188	Myelitis, Transverse	-	To be predicted
+MESH:D011252	Pregnancy Complications, Neoplastic	-	To be predicted
+MESH:D020828	Pseudobulbar Palsy	-	To be predicted
+MESH:D015792	Retinal Dysplasia	-	To be predicted
+MESH:D007019	Hypoproteinemia	-	To be predicted
+MESH:D006222	Hamartoma	-	To be predicted
+MESH:C531795	Idiopathic intracranial hypertension with papilledema	-	To be predicted
+MESH:D014832	Voice Disorders	-	To be predicted
+MESH:D004412	Dysmenorrhea	-	To be predicted
+MESH:D046350	Porphyria, Variegate	-	To be predicted
+MESH:D045262	Reticulocytosis	-	To be predicted
+MESH:D000071069	Multiple Chronic Conditions	-	To be predicted
+MESH:D000077273	Thyroid Cancer, Papillary	-	To be predicted
+MESH:D063130	Maternal Death	-	To be predicted
+MESH:D003930	Diabetic Retinopathy	['1877']	Mapped
+MESH:D009304	Nasopharyngitis	-	To be predicted
+MESH:D009755	Night Blindness	-	To be predicted
+MESH:D012174	Retinitis Pigmentosa	-	To be predicted
+MESH:D006059	Gonadal Dysgenesis	-	To be predicted
+MESH:D007969	Leukomalacia, Periventricular	-	To be predicted
+MESH:D058627	Megalencephaly	-	To be predicted
+MESH:D009216	Myopia	-	To be predicted
+MESH:D009894	Opportunistic Infections	-	To be predicted
+MESH:D010009	Osteochondrodysplasias	['2089']	Mapped
+MESH:D057896	Striae Distensae	-	To be predicted
+MESH:D011665	Pulmonary Valve Insufficiency	-	To be predicted
+MESH:D003111	Colonic Polyps	-	To be predicted
+MESH:D007077	Ileal Diseases	-	To be predicted
+MESH:D015212	Inflammatory Bowel Diseases	-	To be predicted
+MESH:D000087122	Mania	-	To be predicted
+MESH:D009497	Neurotic Disorders	-	To be predicted
+MESH:D007827	Laryngitis	-	To be predicted
+MESH:D012757	Sheep Diseases	-	To be predicted
+MESH:D002286	Carcinoma, Ehrlich Tumor	-	To be predicted
+MESH:D055191	Delayed Emergence from Anesthesia	-	To be predicted
+MESH:D004213	Dissociative Disorders	-	To be predicted
+MESH:D007046	Hysteria	-	To be predicted
+MESH:D000099061	OEIS Complex	-	To be predicted
+MESH:D013313	Stress Disorders, Post-Traumatic	-	To be predicted
+MESH:D008224	Lymphoma, Follicular	-	To be predicted
+MESH:D006944	Hyperglycemic Hyperosmolar Nonketotic Coma	-	To be predicted
+MESH:D055092	Laryngomalacia	-	To be predicted
+MESH:D054218	Precursor T-Cell Lymphoblastic Leukemia-Lymphoma	-	To be predicted
+MESH:D006876	Hydrothorax	-	To be predicted
+MESH:D005497	Follicular Cyst	-	To be predicted
+MESH:D008531	Megacolon	-	To be predicted
+MESH:D011273	Pregnancy, Prolonged	-	To be predicted
+MESH:D002239	Carbohydrate Metabolism, Inborn Errors	-	To be predicted
+MESH:D002371	Cat Diseases	-	To be predicted
+MESH:D008924	Mite Infestations	-	To be predicted
+MESH:D005414	Flatulence	-	To be predicted
+MESH:D015715	Corneal Edema	-	To be predicted
+MESH:D011535	Prune Belly Syndrome	-	To be predicted
+MESH:D011707	Pyloric Stenosis	-	To be predicted
+MESH:C536855	Fanconi like syndrome	-	To be predicted
+MESH:D010192	Pancreatic Pseudocyst	-	To be predicted
+MESH:D005199	Fanconi Anemia	-	To be predicted
+MESH:D057891	Tetraploidy	-	To be predicted
+MESH:D048070	Fetal Nutrition Disorders	-	To be predicted
+MESH:D011125	Adenomatous Polyposis Coli	-	To be predicted
+MESH:D017719	Diabetic Foot	-	To be predicted
+MESH:C563161	Hypertensive Nephropathy	-	To be predicted
+MESH:D002825	Chorioretinitis	-	To be predicted
+MESH:D000858	Anovulation	['488', '532', '1074']	Mapped
+MESH:D006343	Heart Septal Defects	-	To be predicted
+MESH:D056830	Isolated Noncompaction of the Ventricular Myocardium	-	To be predicted
+MESH:D004931	Esophageal Achalasia	-	To be predicted
+MESH:D018197	Hepatoblastoma	['347', '378']	Mapped
+MESH:C535833	Pulmonary edema of mountaineers	-	To be predicted
+MESH:D018262	Adenocarcinoma, Clear Cell	-	To be predicted
+MESH:D002288	Adenocarcinoma, Mucinous	-	To be predicted
+MESH:D001165	Arteriovenous Malformations	-	To be predicted
+MESH:D018196	Carcinoma, Adenosquamous	-	To be predicted
+MESH:D003536	Cystadenocarcinoma	-	To be predicted
+MESH:D005833	Genital Neoplasms, Female	-	To be predicted
+MESH:D008181	Lupus Nephritis	-	To be predicted
+MESH:D008595	Menorrhagia	-	To be predicted
+MESH:D010310	Parovarian Cyst	-	To be predicted
+MESH:D013088	Spermatocele	-	To be predicted
+MESH:D002577	Uterine Cervical Diseases	-	To be predicted
+MESH:D014592	Uterine Hemorrhage	-	To be predicted
+MESH:D014623	Vaginal Diseases	-	To be predicted
+MESH:D014646	Varicocele	-	To be predicted
+MESH:D009209	Myofascial Pain Syndromes	-	To be predicted
+MESH:D002639	Cheyne-Stokes Respiration	-	To be predicted
+MESH:D013612	Tachycardia, Ectopic Atrial	-	To be predicted
+MESH:D013613	Tachycardia, Ectopic Junctional	-	To be predicted
+MESH:D020163	Ornithine Carbamoyltransferase Deficiency Disease	-	To be predicted
+MESH:D015624	Lambert-Eaton Myasthenic Syndrome	-	To be predicted
+MESH:D007871	Leg Ulcer	-	To be predicted
+MESH:D011226	Pre-Excitation Syndromes	-	To be predicted
+MESH:D003550	Cystic Fibrosis	-	To be predicted
+MESH:D006209	Halitosis	-	To be predicted
+MESH:D016301	Alveolar Bone Loss	-	To be predicted
+MESH:D007744	Obstetric Labor Complications	-	To be predicted
+MESH:D010005	Osteoarthropathy, Secondary Hypertrophic	-	To be predicted
+MESH:D010000	Osteitis	-	To be predicted
+MESH:D000210	Acute-Phase Reaction	-	To be predicted
+MESH:D008336	Mandibular Diseases	-	To be predicted
+MESH:D008439	Maxillary Diseases	-	To be predicted
+MESH:D016510	Corneal Neovascularization	-	To be predicted
+MESH:D009021	Morphine Dependence	-	To be predicted
+MESH:D001025	Aortitis	-	To be predicted
+MESH:D064147	Febrile Neutropenia	-	To be predicted
+MESH:D009260	Nail Diseases	-	To be predicted
+MESH:D020149	Manganese Poisoning	-	To be predicted
+MESH:D015862	Choroid Diseases	-	To be predicted
+MESH:D004695	Endocardial Fibroelastosis	-	To be predicted
+MESH:D004933	Esophageal Atresia	-	To be predicted
+MESH:C531835	Esophageal atresia with or without tracheoesophageal fistula	-	To be predicted
+OMIM:610141	QT INTERVAL, VARIATION IN	-	To be predicted
+MESH:C536495	VACTERL association	-	To be predicted
+MESH:D013492	Suppuration	-	To be predicted
+MESH:D005884	Gingival Hemorrhage	-	To be predicted
+MESH:C535402	Galactorrhea-Hyperprolactinemia	-	To be predicted
+MESH:D003047	Coccidioidomycosis	-	To be predicted
+MESH:D009303	Nasopharyngeal Neoplasms	-	To be predicted
+MESH:D018410	Pneumonia, Bacterial	-	To be predicted
+MESH:D000347	Afibrinogenemia	-	To be predicted
+MESH:D015155	Esophageal Spasm, Diffuse	-	To be predicted
+MESH:D009381	Neoplasms, Radiation-Induced	-	To be predicted
+MESH:D051474	Neuralgia, Postherpetic	-	To be predicted
+MESH:D000006	Abdomen, Acute	-	To be predicted
+MESH:D015160	Hydrops Fetalis	-	To be predicted
+MESH:D014550	Urinary Incontinence, Stress	-	To be predicted
+MESH:D018567	Breast Neoplasms, Male	-	To be predicted
+MESH:D000092702	Chronic Kidney Diseases of Uncertain Etiology	-	To be predicted
+MESH:D003773	Dental Plaque	-	To be predicted
+MESH:C537436	Aromatase deficiency	-	To be predicted
+MESH:D014770	Virilism	-	To be predicted
+MESH:D017700	Embolism, Cholesterol	-	To be predicted
+MESH:D013202	Staphylococcal Food Poisoning	-	To be predicted
+MESH:D007637	Keratoconjunctivitis	-	To be predicted
+MESH:D010392	Pemphigus	-	To be predicted
+MESH:D013166	Spondylitis	-	To be predicted
+MESH:D005536	Foot-and-Mouth Disease	-	To be predicted
+MESH:C535932	Intrahepatic Cholestasis of Pregnancy	-	To be predicted
+MESH:D015673	Fatigue Syndrome, Chronic	-	To be predicted
+MESH:D010167	Pallor	-	To be predicted
+MESH:D020803	Encephalitis, Herpes Simplex	-	To be predicted
+MESH:D007027	Hypothalamic Diseases	-	To be predicted
+MESH:D020757	Amaurosis Fugax	-	To be predicted
+MESH:D007925	Leriche Syndrome	-	To be predicted
+MESH:D051270	Headache Disorders, Primary	-	To be predicted
+MESH:D054084	Myocardial Bridging	-	To be predicted
+MESH:D012003	Rectal Fistula	-	To be predicted
+MESH:D008590	Meningoencephalitis	-	To be predicted
+MESH:D001657	Biliary Dyskinesia	-	To be predicted
+MESH:D005499	Folliculitis	-	To be predicted
+MESH:D007636	Keratoacanthoma	-	To be predicted
+MESH:D016114	Ichthyosis, X-Linked	-	To be predicted
+MESH:D054179	Angioedemas, Hereditary	-	To be predicted
+MESH:D004716	Endometritis	-	To be predicted
+MESH:D056828	Hereditary Angioedema Type III	-	To be predicted
+MESH:D014115	Toxemia	-	To be predicted
+MESH:D006519	Hepatitis, Alcoholic	-	To be predicted
+MESH:D009164	Mycobacterium Infections	-	To be predicted
+MESH:D029241	Optic Atrophy, Autosomal Dominant	-	To be predicted
+MESH:D029242	Optic Atrophy, Hereditary, Leber	-	To be predicted
+MESH:D020268	Alcohol-Induced Disorders, Nervous System	-	To be predicted
+MESH:D000430	Alcohol Withdrawal Delirium	-	To be predicted
+MESH:D020270	Alcohol Withdrawal Seizures	-	To be predicted
+MESH:D001028	Aortopulmonary Septal Defect	-	To be predicted
+MESH:C562568	Cerebellar Hypoplasia	-	To be predicted
+MESH:C562573	cyclopia sequence	-	To be predicted
+MESH:D004413	Dysostoses	-	To be predicted
+MESH:D020915	Korsakoff Syndrome	-	To be predicted
+MESH:D008104	Liver Cirrhosis, Alcoholic	['2034']	Mapped
+MESH:D054319	Marchiafava-Bignami Disease	-	To be predicted
+MESH:D019512	Pancreatitis, Alcoholic	-	To be predicted
+MESH:D013832	Thiamine Deficiency	-	To be predicted
+MESH:D018677	Tooth Injuries	-	To be predicted
+MESH:D016388	Tooth Loss	-	To be predicted
+MESH:C538263	Atrial septal defect 2	-	To be predicted
+MESH:D004437	Ebstein Anomaly	-	To be predicted
+MESH:D007009	Hypolipoproteinemias	-	To be predicted
+MESH:D019968	Sexual and Gender Disorders	-	To be predicted
+MESH:D018785	Tricuspid Atresia	-	To be predicted
+MESH:C563477	Nephrolithiasis, Calcium Oxalate	-	To be predicted
+MESH:D016543	Central Nervous System Neoplasms	-	To be predicted
+MESH:D004476	Ectodermal Dysplasia	-	To be predicted
+MESH:D009442	Neurilemmoma	-	To be predicted
+MESH:D009837	Oligodendroglioma	-	To be predicted
+MESH:D010381	Pelger-Huet Anomaly	-	To be predicted
+MESH:D000083682	Opiate Overdose	-	To be predicted
+MESH:D000848	Anodontia	-	To be predicted
+MESH:D005335	Fever of Unknown Origin	-	To be predicted
+MESH:D001715	Bird Diseases	-	To be predicted
+MESH:D010157	Palatal Neoplasms	-	To be predicted
+MESH:D020961	Lewy Body Disease	-	To be predicted
+MESH:D007638	Keratoconjunctivitis Sicca	-	To be predicted
+MESH:D046648	Hematoma, Subdural, Intracranial	-	To be predicted
+MESH:D011186	Postphlebitic Syndrome	-	To be predicted
+MESH:D019315	Retrobulbar Hemorrhage	-	To be predicted
+MESH:D013161	Splenic Rupture	-	To be predicted
+MESH:D020424	Ulnar Neuropathies	-	To be predicted
+MESH:D014946	Wound Infection	-	To be predicted
+MESH:D000007	Abdominal Injuries	-	To be predicted
+MESH:D001746	Bladder Exstrophy	-	To be predicted
+MESH:C563984	Atrial Standstill	-	To be predicted
+MESH:D054139	Tachycardia, Reciprocating	-	To be predicted
+MESH:D054882	Antley-Bixler Syndrome Phenotype	-	To be predicted
+MESH:D058437	Hypertensive Retinopathy	-	To be predicted
+MESH:C562831	Atrioventricular Septal Defect	-	To be predicted
+MESH:D000793	Angioid Streaks	-	To be predicted
+MESH:D006660	Histoplasmosis	-	To be predicted
+MESH:D005458	Fluoride Poisoning	-	To be predicted
+MESH:D012421	Rupture	-	To be predicted
+MESH:D017437	Skin and Connective Tissue Diseases	-	To be predicted
+MESH:D001762	Blepharitis	-	To be predicted
+MESH:D004483	Ectropion	-	To be predicted
+MESH:D015840	Oculomotor Nerve Diseases	-	To be predicted
+MESH:D010257	Paraneoplastic Syndromes	-	To be predicted
+MESH:D045745	Scleroderma, Limited	-	To be predicted
+MESH:D023903	Coronary Restenosis	-	To be predicted
+MESH:D017889	Exfoliation Syndrome	-	To be predicted
+MESH:C537268	Formaldehyde poisoning	-	To be predicted
+MESH:D007015	Hypophosphatemia, Familial	-	To be predicted
+MESH:D050031	Hashimoto Disease	-	To be predicted
+MESH:D011191	Potassium Deficiency	-	To be predicted
+MESH:D057767	Kashin-Beck Disease	-	To be predicted
+MESH:D005531	Foot Deformities, Acquired	-	To be predicted
+MESH:D053584	Urinoma	-	To be predicted
+MESH:D002115	Calciphylaxis	-	To be predicted
+MESH:D013786	Thalamic Diseases	-	To be predicted
+MESH:D065290	Acute-On-Chronic Liver Failure	-	To be predicted
+MESH:D005693	Galactosemias	-	To be predicted
+MESH:D054331	Sertoli Cell-Only Syndrome	-	To be predicted
+MESH:D065766	Atypical Hemolytic Uremic Syndrome	-	To be predicted
+MESH:D002128	Calcium Metabolism Disorders	-	To be predicted
+MESH:D004697	Endocarditis, Bacterial	-	To be predicted
+MESH:D016908	Gram-Positive Bacterial Infections	-	To be predicted
+MESH:D008068	Lipomatosis	-	To be predicted
+MESH:D007690	Polycystic Kidney Diseases	-	To be predicted
+MESH:D017241	MELAS Syndrome	-	To be predicted
+MESH:D014901	West Nile Fever	-	To be predicted
+MESH:D055959	Intervertebral Disc Degeneration	-	To be predicted
+MESH:D020158	Hyperglycinemia, Nonketotic	-	To be predicted
+MESH:D006009	Glycogen Storage Disease Type II	-	To be predicted
+MESH:D002275	Carcinoid Heart Disease	-	To be predicted
+MESH:D013207	Staphylococcal Skin Infections	-	To be predicted
+MESH:D010608	Pharyngeal Diseases	-	To be predicted
+MESH:D046351	Protoporphyria, Erythropoietic	-	To be predicted
+MESH:D029597	Romano-Ward Syndrome	-	To be predicted
+MESH:D004422	Dystonia Musculorum Deformans	-	To be predicted
+MESH:D020178	Sleep Disorders, Circadian Rhythm	-	To be predicted
+MESH:D020919	Sleep Disorders, Intrinsic	-	To be predicted
+MESH:D000071057	Tardive Dyskinesia	-	To be predicted
+MESH:C562477	Halothane Hepatitis	-	To be predicted
+MESH:D006083	Graft Occlusion, Vascular	-	To be predicted
+MESH:D006994	Hypoaldosteronism	-	To be predicted
+MESH:D008946	Mitral Valve Stenosis	-	To be predicted
+MESH:D020206	Subarachnoid Hemorrhage, Traumatic	-	To be predicted
+MESH:D003699	Hepatitis D	-	To be predicted
+MESH:D009373	Neoplasms, Germ Cell and Embryonal	-	To be predicted
+MESH:C565579	Facial Dysmorphism with Multiple Malformations	-	To be predicted
+MESH:D034701	Mastocytosis, Cutaneous	-	To be predicted
+MESH:D012771	Shock, Hemorrhagic	-	To be predicted
+MESH:D000163	Acquired Immunodeficiency Syndrome	-	To be predicted
+MESH:D000386	AIDS-Related Complex	-	To be predicted
+MESH:C537537	Segawa syndrome, autosomal recessive	-	To be predicted
+MESH:D000752	Anemia, Pernicious	-	To be predicted
+MESH:C565662	Acth-Independent Macronodular Adrenal Hyperplasia	-	To be predicted
+MESH:D043204	Mineralocorticoid Excess Syndrome, Apparent	-	To be predicted
+MESH:D005126	Eye Burns	-	To be predicted
+MESH:D003790	Dental Pulp Necrosis	-	To be predicted
+MESH:D015861	Retinal Neovascularization	-	To be predicted
+MESH:D009794	Ochronosis	-	To be predicted
+MESH:D005391	Firesetting Behavior	-	To be predicted
+MESH:D009372	Neoplasms, Connective Tissue	-	To be predicted
+MESH:D007057	Ichthyosis	-	To be predicted
+MESH:D007645	Keratoderma, Palmoplantar	-	To be predicted
+MESH:D014647	Varicose Ulcer	-	To be predicted
+MESH:D002921	Cicatrix	-	To be predicted
+MESH:D005311	Fetal Hypoxia	-	To be predicted
+MESH:D014847	Vulvitis	-	To be predicted
+MESH:D000377	Agnosia	-	To be predicted
+MESH:D017512	Lichenoid Eruptions	-	To be predicted
+MESH:D010022	Osteopetrosis	-	To be predicted
+MESH:D017444	Skin Diseases, Papulosquamous	-	To be predicted
+MESH:D015452	Precursor B-Cell Lymphoblastic Leukemia-Lymphoma	-	To be predicted
+MESH:D016263	AIDS-Associated Nephropathy	-	To be predicted
+MESH:D008201	Lymphangiectasis, Intestinal	-	To be predicted
+MESH:D001997	Bronchopulmonary Dysplasia	['1250']	Mapped
+MESH:D002429	Cecal Diseases	-	To be predicted
+MESH:D008415	Mastocytosis	-	To be predicted
+MESH:D010547	Persistent Fetal Circulation Syndrome	-	To be predicted
+MESH:D011660	Pulmonary Heart Disease	-	To be predicted
+MESH:D002051	Burkitt Lymphoma	-	To be predicted
+MESH:D017565	Sarcoidosis, Pulmonary	-	To be predicted
+MESH:D013967	Thyroiditis, Autoimmune	-	To be predicted
+MESH:D013364	Submandibular Gland Diseases	-	To be predicted
+MESH:D054091	Periventricular Nodular Heterotopia	-	To be predicted
+MESH:D014524	Urethral Obstruction	-	To be predicted
+MESH:D019896	alpha 1-Antitrypsin Deficiency	-	To be predicted
+MESH:D001260	Ataxia Telangiectasia	['2150']	Mapped
+MESH:D005621	Friedreich Ataxia	['192', '2150']	Mapped
+MESH:D006432	Hemochromatosis	['2145']	Mapped
+MESH:D006525	Hepatitis, Viral, Human	-	To be predicted
+MESH:D009181	Mycoses	-	To be predicted
+MESH:D011528	Protozoan Infections	-	To be predicted
+MESH:D014376	Tuberculosis	['1250']	Mapped
+MESH:C562785	Idiopathic Hypogonadotropic Hypogonadism	-	To be predicted
+MESH:D000079690	Postoperative Cognitive Complications	-	To be predicted
+MESH:D006971	Hypersplenism	-	To be predicted
+MESH:D010383	Pellagra	-	To be predicted
+MESH:D026681	Vitamin B 6 Deficiency	-	To be predicted
+MESH:D014927	Wolff-Parkinson-White Syndrome	-	To be predicted
+MESH:D019569	Hemifacial Spasm	-	To be predicted
+MESH:C535670	Accutane embryopathy	-	To be predicted
+MESH:D065817	Congenital Microtia	-	To be predicted
+MESH:C535542	Isotretinoin embryopathy like syndrome	-	To be predicted
+MESH:D017593	Kleine-Levin Syndrome	-	To be predicted
+MESH:D008265	Macrostomia	-	To be predicted
+MESH:D008865	Microstomia	-	To be predicted
+MESH:D058566	Sacroiliitis	-	To be predicted
+MESH:D016750	Stiff-Person Syndrome	-	To be predicted
+MESH:D014526	Urethritis	-	To be predicted
+MESH:D014985	Xerophthalmia	-	To be predicted
+MESH:D004834	Epilepsy, Post-Traumatic	-	To be predicted
+MESH:D012569	Schizotypal Personality Disorder	-	To be predicted
+MESH:D065606	Metabolic Side Effects of Drugs and Substances	-	To be predicted
+MESH:D016603	Eosinophilia-Myalgia Syndrome	-	To be predicted
+MESH:D006491	Hemothorax	-	To be predicted
+MESH:D018781	Tension-Type Headache	-	To be predicted
+MESH:D053202	Urinary Incontinence, Urge	-	To be predicted
+MESH:C537880	Lathosterolosis	-	To be predicted
+MESH:C562768	Hypothyroidism, Autoimmune	-	To be predicted
+MESH:D007855	Lead Poisoning	-	To be predicted
+MESH:D020263	Lead Poisoning, Nervous System	-	To be predicted
+MESH:D020264	Lead Poisoning, Nervous System, Childhood	-	To be predicted
+MESH:D020265	Lead Poisoning, Nervous System, Adult	-	To be predicted
+MESH:D001250	Asthma, Exercise-Induced	-	To be predicted
+MESH:D015211	Zellweger Syndrome	-	To be predicted
+MESH:D020447	Parasomnias	-	To be predicted
+MESH:D019967	Schizophrenia Spectrum and Other Psychotic Disorders	-	To be predicted
+MESH:D014190	Transvestism	-	To be predicted
+MESH:D001748	Urinary Bladder Neck Obstruction	-	To be predicted
+MESH:D020220	Facial Nerve Injuries	-	To be predicted
+MESH:D012857	Situs Inversus	-	To be predicted
+MESH:D058490	Disorder of Sex Development, 46,XY	-	To be predicted
+MESH:D011488	Protein Deficiency	-	To be predicted
+MESH:D010483	Periapical Diseases	-	To be predicted
+MESH:D002821	Chorioamnionitis	-	To be predicted
+MESH:C566417	Endotoxin Hyporesponsiveness	-	To be predicted
+MESH:D015775	Fractures, Stress	-	To be predicted
+MESH:D007160	Immunoproliferative Disorders	-	To be predicted
+MESH:D011671	Pulpitis	-	To be predicted
+MESH:D015535	Arthritis, Psoriatic	-	To be predicted
+MESH:D002032	Bulimia	-	To be predicted
+MESH:D007644	Darier Disease	-	To be predicted
+MESH:D010282	Parathyroid Neoplasms	-	To be predicted
+MESH:D006831	Polyhydramnios	-	To be predicted
+MESH:D016574	Seasonal Affective Disorder	-	To be predicted
+MESH:D000506	Alopecia Areata	-	To be predicted
+MESH:D000849	Anomia	-	To be predicted
+MESH:D003025	Clubfoot	-	To be predicted
+MESH:C531609	Diffuse alopecia	-	To be predicted
+MESH:D049950	Hyperparathyroidism, Primary	-	To be predicted
+MESH:D013281	Stomatitis, Aphthous	-	To be predicted
+MESH:D012563	Schizophrenia, Paranoid	-	To be predicted
+MESH:D004461	Eclampsia	-	To be predicted
+MESH:D015845	Tonic Pupil	-	To be predicted
+MESH:D007945	Leukemia, Lymphoid	-	To be predicted
+MESH:C536595	Alzheimer disease type 2	-	To be predicted
+MESH:D004410	Dyslexia	-	To be predicted
+MESH:D003294	Seizures, Febrile	-	To be predicted
+MESH:D004444	Echinococcosis, Hepatic	-	To be predicted
+MESH:D002279	Carcinoma 256, Walker	-	To be predicted
+MESH:D004842	Epispadias	-	To be predicted
+MESH:D017514	Pityriasis Lichenoides	-	To be predicted
+MESH:D010391	Pemphigoid, Bullous	-	To be predicted
+MESH:D045602	Steatorrhea	-	To be predicted
+MESH:C536010	Achalasia microcephaly	-	To be predicted
+MESH:D041881	Cholecystitis, Acute	-	To be predicted
+MESH:D054972	Postural Orthostatic Tachycardia Syndrome	-	To be predicted
+MESH:D000172	Acromegaly	-	To be predicted
+MESH:D055112	Pyometra	-	To be predicted
+MESH:D008209	Lymphedema	-	To be predicted
+MESH:D023981	Sarcoma, Myeloid	-	To be predicted
+MESH:D000169	Acrodermatitis	-	To be predicted
+MESH:D001170	Arthritis, Infectious	-	To be predicted
+MESH:D002690	Chlamydia Infections	-	To be predicted
+MESH:D006942	Hypergammaglobulinemia	-	To be predicted
+MESH:D000170	Acrodynia	-	To be predicted
+MESH:D055031	Primary Graft Dysfunction	-	To be predicted
+MESH:D016643	Encephalopathy, Bovine Spongiform	-	To be predicted
+MESH:D020065	Hepatopulmonary Syndrome	-	To be predicted
+MESH:D053120	Respiratory Aspiration	-	To be predicted
+MESH:D010202	Panophthalmitis	-	To be predicted
+MESH:D012749	Sexually Transmitted Diseases	-	To be predicted
+MESH:D018461	Soft Tissue Infections	-	To be predicted
+MESH:D013587	Syphilis	-	To be predicted
+MESH:D009136	Muscular Dystrophies	-	To be predicted
+MESH:C536409	Neural tube defect, folate-sensitive	-	To be predicted
+MESH:D020924	Urological Manifestations	-	To be predicted
+MESH:C538458	Rapidly progressive glomerulonephritis with pulmonary hemorrhage	-	To be predicted
+MESH:D002659	Child Development Disorders, Pervasive	['1001', '2050']	Mapped
+MESH:D000381	Agraphia	-	To be predicted
+MESH:D020237	Alexia, Pure	-	To be predicted
+MESH:D000754	Anemia, Refractory, with Excess of Blasts	-	To be predicted
+MESH:D020240	Apraxia, Ideomotor	-	To be predicted
+MESH:D058565	Cerebral Ventriculitis	-	To be predicted
+MESH:D003655	Decerebrate State	-	To be predicted
+MESH:D004679	Encephalomyelitis	-	To be predicted
+MESH:D020232	Kluver-Bucy Syndrome	-	To be predicted
+MESH:D017599	Neuroectodermal Tumors	-	To be predicted
+MESH:D018458	Persistent Vegetative State	-	To be predicted
+MESH:D012874	Skin Diseases, Infectious	-	To be predicted
+MESH:D013471	Sunburn	-	To be predicted
+MESH:D013724	Teratoma	-	To be predicted
+MESH:D050090	Ovotesticular Disorders of Sex Development	-	To be predicted
+MESH:D002291	Carcinoma, Papillary	-	To be predicted
+MESH:D002056	Burns	-	To be predicted
+MESH:D020196	Trauma, Nervous System	-	To be predicted
+MESH:D005757	Gastritis, Atrophic	-	To be predicted
+MESH:D005834	Genital Neoplasms, Male	-	To be predicted
+MESH:D012175	Retinoblastoma	-	To be predicted
+MESH:D003291	Conversion Disorder	-	To be predicted
+MESH:D004454	Echolalia	-	To be predicted
+MESH:D005357	Fibrous Dysplasia of Bone	-	To be predicted
+MESH:D020277	Polyradiculoneuropathy, Chronic Inflammatory Demyelinating	-	To be predicted
+MESH:D055732	Pulmonary Aspergillosis	-	To be predicted
+MESH:D013130	Spinal Stenosis	-	To be predicted
+MESH:D014390	Tuberculosis, Meningeal	-	To be predicted
+MESH:D006337	Heart Murmurs	-	To be predicted
+MESH:D014606	Uveitis, Anterior	-	To be predicted
+MESH:D000798	Angiomatosis	-	To be predicted
+MESH:D019066	Facies	-	To be predicted
+MESH:D004204	Joint Dislocations	-	To be predicted
+MESH:C538446	Speech disturbance - use of faulty phrasing and unrelated words	-	To be predicted
+MESH:D001859	Bone Neoplasms	-	To be predicted
+MESH:D046089	Hearing Loss, Mixed Conductive-Sensorineural	-	To be predicted
+MESH:D004604	Elephantiasis	-	To be predicted
+MESH:D012913	Snoring	-	To be predicted
+MESH:D005218	Fat Necrosis	-	To be predicted
+MESH:D014627	Vaginitis	-	To be predicted
+MESH:D010032	Otitis Externa	-	To be predicted
+MESH:D011111	Polymyalgia Rheumatica	-	To be predicted
+MESH:D010760	Phosphorus Metabolism Disorders	-	To be predicted
+MESH:D005146	Facial Asymmetry	-	To be predicted
+MESH:D005155	Facial Nerve Diseases	-	To be predicted
+MESH:D006228	Hand Deformities, Congenital	-	To be predicted
+MESH:D057112	Corneal Perforation	-	To be predicted
+MESH:D017577	Cutaneous Fistula	-	To be predicted
+MESH:D007499	Iris Diseases	-	To be predicted
+MESH:D007500	Iritis	-	To be predicted
+MESH:D001747	Urinary Bladder Fistula	-	To be predicted
+MESH:D014719	Vesicovaginal Fistula	-	To be predicted
+MESH:C537417	Butyrylcholinesterase deficiency	-	To be predicted
+MESH:D002422	Causalgia	-	To be predicted
+MESH:D009165	Mycobacterium Infections, Nontuberculous	-	To be predicted
+MESH:D020739	Brain Diseases, Metabolic, Inborn	-	To be predicted
+MESH:C563236	Testicular Germ Cell Tumor	-	To be predicted
+MESH:D000081029	Pulmonary Arterial Hypertension	-	To be predicted
+MESH:D004749	Entamoebiasis	-	To be predicted
+MESH:D056586	Acute Chest Syndrome	-	To be predicted
+MESH:D006560	Herpes Labialis	-	To be predicted
+MESH:D014813	Vitamin K Deficiency	-	To be predicted
+MESH:D008080	Liposarcoma	-	To be predicted
+MESH:D018205	Neoplasms, Adipose Tissue	-	To be predicted
+MESH:D008577	Meningeal Neoplasms	-	To be predicted
+MESH:D000751	Anemia, Neonatal	-	To be predicted
+MESH:D003394	Craniofacial Dysostosis	-	To be predicted
+MESH:C535408	Gamma-cystathionase deficiency	-	To be predicted
+MESH:C537948	Ceroid lipofuscinosis, neuronal 1, infantile	-	To be predicted
+MESH:D009976	Orthomyxoviridae Infections	-	To be predicted
+MESH:D018263	Adenocarcinoma, Follicular	-	To be predicted
+MESH:D004684	Leukoencephalitis, Acute Hemorrhagic	-	To be predicted
+MESH:D007898	Leishmaniasis, Visceral	-	To be predicted
+MESH:D014098	Toothache	-	To be predicted
+MESH:D007516	Adenoma, Islet Cell	-	To be predicted
+MESH:D006258	Head and Neck Neoplasms	-	To be predicted
+MESH:D009041	Motion Sickness	-	To be predicted
+MESH:D030361	Papillomavirus Infections	-	To be predicted
+MESH:D003668	Pressure Ulcer	-	To be predicted
+MESH:D016137	Spina Bifida Cystica	-	To be predicted
+OMIM:188890	TOBACCO ADDICTION, SUSCEPTIBILITY TO	-	To be predicted
+MESH:C536096	Myoclonic dystonia	-	To be predicted
+MESH:D018188	Cardiovirus Infections	-	To be predicted
+MESH:D007896	Leishmaniasis	-	To be predicted
+MESH:D009175	Mycoplasma Infections	-	To be predicted
+MESH:C562992	Lung agenesis	-	To be predicted
+MESH:D007251	Influenza, Human	-	To be predicted
+MESH:D005627	Frostbite	-	To be predicted
+MESH:D051302	Paroxysmal Hemicrania	-	To be predicted
+MESH:D003914	Dextrocardia	-	To be predicted
+MESH:D019052	Depression, Postpartum	-	To be predicted
+MESH:D002575	Uterine Cervicitis	-	To be predicted
+MESH:D054971	Orthostatic Intolerance	-	To be predicted
+MESH:D011201	Poultry Diseases	-	To be predicted
+MESH:D020189	Nocturnal Myoclonus Syndrome	-	To be predicted
+MESH:D014071	Tooth Abnormalities	-	To be predicted
+MESH:D017714	Community-Acquired Infections	-	To be predicted
+MESH:D010326	Pasteurella Infections	-	To be predicted
+MESH:D000126	Achlorhydria	-	To be predicted
+MESH:D000076064	Drug Misuse	-	To be predicted
+MESH:D000074607	Opium Dependence	-	To be predicted
+MESH:C531755	Kidney disorder involving deposition of calcium and oxalate or phosphate in the renal tubules	-	To be predicted
+MESH:D021181	Egg Hypersensitivity	-	To be predicted
+MESH:D000239	Adenoma, Acidophil	-	To be predicted
+MESH:D000755	Anemia, Sickle Cell	['1132']	Mapped
+MESH:D018496	Hyperoxia	-	To be predicted
+MESH:D018921	Leukostasis	-	To be predicted
+MESH:D066087	Perinatal Death	['947']	Mapped
+MESH:D012178	Retinopathy of Prematurity	-	To be predicted
+MESH:D064726	Triple Negative Breast Neoplasms	['885', '1193']	Mapped
+MESH:D004619	Embolism, Amniotic Fluid	-	To be predicted
+MESH:D012221	Rhinitis, Allergic, Perennial	-	To be predicted
+MESH:C537171	Paraquat lung	-	To be predicted
+MESH:D053207	Diurnal Enuresis	-	To be predicted
+MESH:D000086582	Anosmia	-	To be predicted
+MESH:D001990	Bronchiolitis, Viral	-	To be predicted
+MESH:D003147	Communication Disorders	-	To be predicted
+MESH:D004694	Endocardial Cushion Defects	-	To be predicted
+MESH:D012222	Rhinitis, Atrophic	-	To be predicted
+MESH:D061686	Premature Ejaculation	-	To be predicted
+MESH:D013479	Superior Vena Cava Syndrome	-	To be predicted
+MESH:D020330	Bell Palsy	-	To be predicted
+MESH:D014607	Uveomeningoencephalitic Syndrome	-	To be predicted
+MESH:C536380	Evans Syndrome	-	To be predicted
+MESH:D005955	Glucosephosphate Dehydrogenase Deficiency	-	To be predicted
+MESH:D020386	Isaacs Syndrome	-	To be predicted
+MESH:D020192	Lafora Disease	-	To be predicted
+MESH:D020720	Myasthenia Gravis, Autoimmune, Experimental	-	To be predicted
+MESH:C564628	Myasthenia Gravis with Thymus Hyperplasia	-	To be predicted
+MESH:C536901	Thrombotic thrombocytopenic purpura, acquired	-	To be predicted
+MESH:D013945	Thymoma	-	To be predicted
+MESH:D020968	Brachial Plexus Neuritis	-	To be predicted
+MESH:D018301	Neoplasms, Mesothelial	-	To be predicted
+MESH:D006616	Hip Contracture	-	To be predicted
+MESH:D020425	Radial Neuropathy	-	To be predicted
+MESH:D012783	Shoulder Dislocation	-	To be predicted
+OMIM:613207	ASTHMA-RELATED TRAITS, SUSCEPTIBILITY TO, 8	-	To be predicted
+MESH:D009385	Neoplastic Processes	-	To be predicted
+MESH:D005878	Gilbert Disease	-	To be predicted
+MESH:D018357	Respiratory Syncytial Virus Infections	['1250']	Mapped
+MESH:C535682	Right ventricle hypoplasia	-	To be predicted
+MESH:D010373	Lice Infestations	-	To be predicted
+MESH:C563030	Heinz Body Anemias	-	To be predicted
+MESH:D054391	Lymphoma, Extranodal NK-T-Cell	-	To be predicted
+MESH:D013436	Sulfhemoglobinemia	-	To be predicted
+MESH:D010623	Phencyclidine Abuse	-	To be predicted
+MESH:D005356	Fibromyalgia	-	To be predicted
+MESH:D011293	Premenstrual Syndrome	-	To be predicted
+MESH:D018288	Carcinoma, Small Cell	-	To be predicted
+MESH:D058734	Exsanguination	-	To be predicted
+MESH:D011694	Purpura, Hyperglobulinemic	-	To be predicted
+MESH:D000098850	Polymorphic Catecholaminergic Ventricular Tachycardia	-	To be predicted
+MESH:D001006	Anus, Imperforate	-	To be predicted
+MESH:D001139	Arnold-Chiari Malformation	-	To be predicted
+MESH:C563401	Choreoathetosis-Spasticity, Episodic	-	To be predicted
+MESH:D003103	Coloboma	-	To be predicted
+MESH:D018549	Cryptogenic Organizing Pneumonia	-	To be predicted
+MESH:C536226	Cutis marmorata telangiectatica congenita	-	To be predicted
+MESH:D004803	Eosinophilic Granuloma	-	To be predicted
+MESH:D017036	Epilepsia Partialis Continua	-	To be predicted
+MESH:C537922	Fetal hydantoin syndrome	-	To be predicted
+MESH:D018305	Ganglioneuroblastoma	-	To be predicted
+MESH:D017098	IgA Deficiency	-	To be predicted
+MESH:D007119	Immunoblastic Lymphadenopathy	-	To be predicted
+MESH:C537030	Lipomyelomeningocele	-	To be predicted
+MESH:D008637	Mesenchymoma	-	To be predicted
+MESH:D009224	Myotonia Congenita	-	To be predicted
+MESH:D017600	Neuroectodermal Tumor, Melanotic	-	To be predicted
+MESH:D055496	Neurogenic Bowel	-	To be predicted
+MESH:D013132	Spinocerebellar Degenerations	-	To be predicted
+MESH:C536779	Systemic necrotizing angiitis	-	To be predicted
+MESH:D020429	Tibial Neuropathy	-	To be predicted
+MESH:D004416	Dysplastic Nevus Syndrome	-	To be predicted
+MESH:D012035	Refsum Disease	-	To be predicted
+MESH:D001010	Anxiety, Separation	-	To be predicted
+MESH:D018901	Peroxisomal Disorders	-	To be predicted
+MESH:C536778	Systemic carnitine deficiency	-	To be predicted
+MESH:D007971	Leukoplakia	-	To be predicted
+MESH:D014072	Tooth Abrasion	-	To be predicted
+MESH:D020195	Epilepsy, Reflex	-	To be predicted
+MESH:D008527	Medulloblastoma	-	To be predicted
+MESH:C565891	Calcification of Joints and Arteries	-	To be predicted
+MESH:D020922	Sleep-Wake Transition Disorders	-	To be predicted
+MESH:D003551	Cysticercosis	-	To be predicted
+MESH:D000856	Anorexia Nervosa	-	To be predicted
+MESH:D005902	Glaucoma, Open-Angle	-	To be predicted
+MESH:D051359	Lymphohistiocytosis, Hemophagocytic	-	To be predicted
+MESH:C540770	Mitochondrial cytopathy	-	To be predicted
+MESH:D020388	Muscular Dystrophy, Duchenne	-	To be predicted
+MESH:D000052	Acanthosis Nigricans	-	To be predicted
+MESH:D018438	Blue Toe Syndrome	-	To be predicted
+MESH:D008101	Liver Abscess, Amebic	-	To be predicted
+MESH:D009617	Nocardia Infections	-	To be predicted
+MESH:D027601	Polyomavirus Infections	-	To be predicted
+MESH:D012614	Scurvy	-	To be predicted
+MESH:D006053	Goldenhar Syndrome	-	To be predicted
+MESH:D012560	Schizophrenia, Catatonic	-	To be predicted
+MESH:D010954	Plasmacytoma	-	To be predicted
+MESH:D000034	Abortion, Veterinary	-	To be predicted
+MESH:D018275	Carcinoma, Lobular	-	To be predicted
+MESH:D020235	Gait Apraxia	-	To be predicted
+MESH:D005162	Factitious Disorders	-	To be predicted
+MESH:D009223	Myotonic Dystrophy	-	To be predicted
+MESH:D057774	Post-Exercise Hypotension	-	To be predicted
+MESH:D005134	Eye Neoplasms	-	To be predicted
+MESH:D016736	Antiphospholipid Syndrome	-	To be predicted
+MESH:D054221	Classical Lissencephalies and Subcortical Band Heterotopias	-	To be predicted
+MESH:C566454	Thyroid Hormone Metabolism, Abnormal	-	To be predicted
+MESH:D008476	Mediastinal Cyst	-	To be predicted
+MESH:D007011	Hypoparathyroidism	-	To be predicted
+MESH:D000361	Agammaglobulinemia	-	To be predicted
+MESH:C538457	Segmental glomerulosclerosis	-	To be predicted
+MESH:C000721848	hypoglycemic encephalopathy	-	To be predicted
+MESH:D056627	Peritoneal Fibrosis	-	To be predicted
+MESH:D018287	Carcinoma, Large Cell	-	To be predicted
+MESH:D007953	Leukemia, Radiation-Induced	-	To be predicted
+MESH:D018200	Mixed Tumor, Mullerian	-	To be predicted
+MESH:D012488	Salpingitis	-	To be predicted
+MESH:D014596	Uterine Prolapse	-	To be predicted
+MESH:D005208	Fasciitis	-	To be predicted
+MESH:D009889	Opisthorchiasis	-	To be predicted
+MESH:D007918	Leprosy	-	To be predicted
+MESH:D040921	Stress Disorders, Traumatic	-	To be predicted
+MESH:C535908	Marcus Gunn phenomenon	-	To be predicted
+MESH:D005183	Failure to Thrive	-	To be predicted
+MESH:D000072717	Tertiary Lymphoid Structures	-	To be predicted
+MESH:D000080362	Stargardt Disease	-	To be predicted
+MESH:D015864	Panuveitis	-	To be predicted
+MESH:D061219	Olfactory Nerve Injuries	-	To be predicted
+MESH:D049970	Graves Ophthalmopathy	-	To be predicted
+MESH:D005667	Furunculosis	-	To be predicted
+MESH:D045822	Intestinal Volvulus	-	To be predicted
+MESH:D018235	Smooth Muscle Tumor	-	To be predicted
+MESH:C580316	Myofibrillar Myopathy	-	To be predicted
+MESH:D054061	Ischemic Contracture	-	To be predicted
+MESH:D059373	Mastodynia	-	To be predicted
+MESH:D043183	Irritable Bowel Syndrome	-	To be predicted
+MESH:D004769	Enterovirus Infections	-	To be predicted
+MESH:D020202	Cerebral Hemorrhage, Traumatic	-	To be predicted
+MESH:D018323	Hemangioendothelioma, Epithelioid	-	To be predicted
+MESH:D018979	Myositis, Inclusion Body	-	To be predicted
+MESH:C535686	Rippling muscle disease, 1	-	To be predicted
+MESH:D051799	Delayed Graft Function	-	To be predicted
+MESH:D008210	Lymphocele	-	To be predicted
+MESH:D017566	Microvascular Angina	-	To be predicted
+MESH:D010850	Picornaviridae Infections	-	To be predicted
+MESH:D013529	Surgical Wound Dehiscence	-	To be predicted
+MESH:C537345	Sitosterolemia	-	To be predicted
+MESH:D006566	Herpesviridae Infections	-	To be predicted
+MESH:D004756	Enterobacteriaceae Infections	-	To be predicted
+MESH:D009386	Neoplastic Syndromes, Hereditary	-	To be predicted
+MESH:D018353	Rhabdoviridae Infections	-	To be predicted
+MESH:D020221	Optic Nerve Injuries	-	To be predicted
+MESH:D006259	Craniocerebral Trauma	-	To be predicted
+MESH:D002607	Charcot-Marie-Tooth Disease	['192', '2150']	Mapped
+MESH:D014135	Tracheal Stenosis	-	To be predicted
+MESH:D018658	Ventricular Septal Rupture	-	To be predicted
+MESH:D005320	Fetal Macrosomia	-	To be predicted
+MESH:D007340	Insulinoma	-	To be predicted
+MESH:C537757	Renal hypouricemia	-	To be predicted
+MESH:D012183	Retrograde Degeneration	-	To be predicted
+MESH:C538235	Adenylosuccinate lyase deficiency	-	To be predicted
+MESH:D044148	Lymphatic Abnormalities	-	To be predicted
+MESH:D020212	Carotid Artery Injuries	-	To be predicted
+MESH:C538361	Reticular dysgenesis	-	To be predicted
+MESH:D019846	Miller Fisher Syndrome	-	To be predicted
+MESH:C537296	Granulosa cell tumor of the ovary	-	To be predicted
+MESH:D031901	Gestational Trophoblastic Disease	-	To be predicted
+MESH:D017681	Hypereosinophilic Syndrome	-	To be predicted
+MESH:D006561	Herpes Simplex	-	To be predicted
+MESH:D012514	Sarcoma, Kaposi	-	To be predicted
+MESH:C535352	Cerebellar degeneration, subacute	-	To be predicted
+MESH:D018222	Desmoid Tumors	-	To be predicted
+MESH:C536961	Familial Testotoxicosis	-	To be predicted
+MESH:D012774	Shock, Traumatic	-	To be predicted
+MESH:D013742	Tetanus	-	To be predicted
+MESH:D012625	Sebaceous Gland Diseases	-	To be predicted
+MESH:D017254	Leukemic Infiltration	-	To be predicted
+MESH:D012811	Sigmoid Neoplasms	-	To be predicted
+MESH:D004370	Duane Retraction Syndrome	-	To be predicted
+MESH:C535531	Intervertebral disc disease	-	To be predicted
+MESH:D013169	Spondylolysis	-	To be predicted
+MESH:D008382	Marfan Syndrome	-	To be predicted
+MESH:D015493	Paraparesis, Tropical Spastic	-	To be predicted
+MESH:D006111	Graves Disease	-	To be predicted
+MESH:D006981	Hyperthyroxinemia	-	To be predicted
+MESH:D013224	Status Asthmaticus	-	To be predicted
+MESH:D059347	Cardio-Renal Syndrome	-	To be predicted
+MESH:D017497	Hidradenitis Suppurativa	-	To be predicted
+MESH:C536215	Pediatric Crohn's disease	-	To be predicted
+MESH:D014777	Virus Diseases	-	To be predicted
+MESH:D003139	Common Cold	-	To be predicted
+MESH:C538175	Acquired ichthyosis	-	To be predicted
+MESH:C537221	Sacral defect and anterior sacral meningocele	-	To be predicted
+MESH:D014823	Vitreous Hemorrhage	-	To be predicted
+MESH:C536957	Temporomandibular ankylosis	-	To be predicted
+MESH:D008588	Meningocele	-	To be predicted
+MESH:C536561	Trimethylaminuria	-	To be predicted
+MESH:D041441	Retinoschisis	-	To be predicted
+MESH:D015210	Arthritis, Gouty	-	To be predicted
+MESH:D015858	Anisometropia	-	To be predicted
+MESH:D001251	Astigmatism	-	To be predicted
+MESH:D003616	Dandy-Walker Syndrome	-	To be predicted
+MESH:D020417	Nystagmus, Congenital	-	To be predicted
+MESH:D016136	Spina Bifida Occulta	-	To be predicted
+MESH:C562941	Telecanthus	-	To be predicted
+MESH:D014428	Twins, Conjoined	-	To be predicted
+MESH:D020194	Unverricht-Lundborg Syndrome	-	To be predicted
+MESH:C536525	Valproic acid antenatal infection	-	To be predicted
+MESH:C567144	Anemia, Hypochromic Microcytic, With Iron Overload	-	To be predicted
+MESH:D020936	Epilepsy, Benign Neonatal	-	To be predicted
+MESH:D005530	Foot Deformities	-	To be predicted
+MESH:D005683	Gagging	-	To be predicted
+MESH:D018589	Gastroparesis	-	To be predicted
+MESH:D020435	Glossopharyngeal Nerve Diseases	-	To be predicted
+MESH:D020437	Hypoglossal Nerve Diseases	-	To be predicted
+MESH:D001661	Biliary Tract Neoplasms	-	To be predicted
+MESH:D006393	Hemangiopericytoma	-	To be predicted
+MESH:D019698	Hepatitis C, Chronic	-	To be predicted
+MESH:D014802	Vitamin A Deficiency	-	To be predicted
+MESH:D006712	Homocystinuria	-	To be predicted
+MESH:C538556	Imerslund-Grasbeck syndrome	-	To be predicted
+MESH:D052879	Subacute Combined Degeneration	-	To be predicted
+MESH:D003784	Dental Pulp Calcification	-	To be predicted
+MESH:D017436	Kallmann Syndrome	-	To be predicted
+MESH:D009748	Nutrition Disorders	-	To be predicted
+MESH:D000067404	Social Communication Disorder	-	To be predicted
+MESH:D012778	Short Bowel Syndrome	-	To be predicted
+MESH:C562942	Aortic Valve, Calcification of	-	To be predicted
+MESH:D016410	Lymphoma, T-Cell, Cutaneous	-	To be predicted
+MESH:D002832	Choroid Hemorrhage	-	To be predicted
+MESH:C563039	Coumarin Resistance	-	To be predicted
+MESH:D006431	Hemobilia	-	To be predicted
+MESH:C537884	Peters anomaly	-	To be predicted
+MESH:D020758	Spinal Cord Vascular Diseases	-	To be predicted
+MESH:D025242	Spondylarthropathies	-	To be predicted
+MESH:C536683	Warfarin syndrome	-	To be predicted
+MESH:C538525	Mitochondrial encephalopathy	-	To be predicted
+MESH:D054747	Histiocytic Sarcoma	-	To be predicted
+MESH:C537476	Mitochondrial myopathy with lactic acidosis	-	To be predicted
+MESH:C538178	Acrodermatitis enteropathica	-	To be predicted
+MESH:C564286	Zinc Deficiency, Neonatal, due to Low Breast Milk Zinc	-	To be predicted
